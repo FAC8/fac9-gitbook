@@ -62,7 +62,7 @@
    * [Project](week8/projects.md)
    * [Stop Go Continue](week8/stop_go_continue.md)
    * [Learning Outcomes](week8/learning_outcomes.md)
-   * Resources
+   * [Resources](week8/resources.md)
 * [Week9-10](week9/index.md)
    * [Workshop](week9/workshop.md)
    * [Readme Topics](week9/readme_topics.md)
