@@ -66,7 +66,7 @@
 * [Week9-10](week9/index.md)
    * [Workshop](week9/workshop.md)
    * [Readme Topics](week9/readme_topics.md)
-   * [Projects](week9/projects.md)
+   * [Project](week9/projects.md)
    * [Stop Go Continue](week9/stop_go_continue.md)
    * [Learning outcomes](week9/learning_outcomes.md)
 
