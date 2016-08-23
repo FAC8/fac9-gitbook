@@ -1,4 +1,4 @@
-# Responsibilities
+# Responsibilities ❣️
 ##Pre-course
 * Troy
 * Kara
