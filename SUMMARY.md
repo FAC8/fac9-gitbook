@@ -32,7 +32,7 @@
    * [Resources](week2/resources.md)
    * [Walktrough](week2/walktrough.md)
 * [Week3](week3/index.md)
-   * [XHR Workshop](week3/xhr_workshop.md)
+   * [Workshop](week3/xhr_workshop.md)
    * [Readme Topics](week3/readme_topics.md)
    * [Project](week3/project.md)
    * [Stop Go Continue](week3/stop_go_continue.md)
