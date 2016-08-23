@@ -46,7 +46,7 @@
    * [Stop Go Continue](week4/stop_go_continue.md)
    * [Morning Challenge](week4/morning-challenge.md)
    * [Resources](week4/resources.md)
-   * Learning Outcomes
+   * [Learning Outcomes](week4/learning-outcomes.md)
 * [Week5-6](week5/index.md)
    * [Workshop](week5/workshop.md)
    * [Readme Topics](week5/readme_topics.md)
