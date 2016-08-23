@@ -9,7 +9,7 @@
    * [Patterns of Work](General/patterns_of_work.md)
    * [Week Schedule](General/weekSchedule.md)
    * [Calendar](General/calendar.md)
-   * [FAC7 Responsibilities](General/responsibilities.md)
+   * [FAC8 Responsibilities](General/responsibilities.md)
 * [PreCourse](PreCourse/index.md)
    * [Resources List](PreCourse/resources_list.md)
    * [Exercises](PreCourse/exercises.md)
