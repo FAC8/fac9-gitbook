@@ -55,7 +55,7 @@
    * [Resources](week7/resources.md)
    * [Morning Challenge](week7/morning-challenge.md)
 * [Week8](week8/index.md)
-   * [OAuth Workshop](week8/workshop.md)
+   * [Workshop](week8/workshop.md)
    * [Readme Topics](week8/readme_topics.md)
    * [Morning Challenge](week8/morningchallenge.md)
    * [Project](week8/projects.md)
