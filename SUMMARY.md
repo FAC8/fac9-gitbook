@@ -36,7 +36,6 @@
    * [Readme Topics](week3/readme_topics.md)
    * [Project](week3/project.md)
    * [Stop Go Continue](week3/stop_go_continue.md)
-   * [Walktrough](week3/tfl_walkthrough_with_postman.md)
    * [Resources](week3/resources.md)
    * [Morning Challenge](week3/morning-challenge.md)
    * [Learning outcomes](week3/learning-outcomes.md)
