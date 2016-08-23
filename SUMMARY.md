@@ -23,7 +23,7 @@
    * [Morning challenge](week1/morning_challenge.md)
    * [Resources](week1/resources.md)
    * [Walktrough](week1/walktrough)
-   * Learning outcomes
+   * [Learning outcomes](week1/learning-outcomes.md)
 * [Week2](week2/index.md)
    * [Workshop](week2/workshop.md)
    * [Readme Topics](week2/readme_topics.md)
