@@ -37,6 +37,7 @@
    * [Project](week3/project.md)
    * [Stop Go Continue](week3/stop_go_continue.md)
    * [Walktrough](week3/tfl_walkthrough_with_postman.md)
+   * Resources
 * [Week4-5](week4/index.md)
    * [Workshop](week4/workshop.md)
    * [Readme Topics](week4/readme_topics.md)
