@@ -55,7 +55,7 @@
    * [Readme Topics Postgres](week5/readme_topics_postgres.md)
    * [Stop Go Continue](week5/stop_go_continue.md)
    * [Learning Outcomes](week5/learning-outcomes.md)
-   * Resources
+   * [Resources](week5/resources.md)
 * [Week7](week7/index.md)
    * [Workshop](week7/workshop.md)
    * [Readme Topics](week7/readme_topics.md)
