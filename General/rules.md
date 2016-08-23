@@ -1,5 +1,3 @@
-# Rules
-
 # Code of Conduct
  
  FAC is a collaborative, peer-led learning environment. This means taking an interest in and conducting yourself to the benefit of everyone around you's learning:
