@@ -71,6 +71,6 @@
    * [Project](week9/projects.md)
    * [Stop Go Continue](week9/stop_go_continue.md)
    * [Learning outcomes](week9/learning_outcomes.md)
-   * [Morning Challenge](morning-challenge.md)
+   * [Morning Challenge](week9/morning-challenge.md)
    * Resources
 
