@@ -52,7 +52,7 @@
    * [Stop Go Continue](week7/stop_go_continue.md)
    * [Learning Outcomes](week7/learning_outcomes.md)
    * [Resources](week7/resources.md)
-   * Morning Challenge
+   * [Morning Challenge](week7/morning-challenge.md)
 * [Week8](week8/index.md)
    * [OAuth Workshop](week8/workshop.md)
    * [Readme Topics](week8/readme_topics.md)
