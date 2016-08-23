@@ -1,56 +1,42 @@
 # Responsibilities
-
+## Alumni contacter
+* **Needed!!**
 ## Pre-course
-* Sam
-* Mireia
-* Franz
+* Troy
+* Kara
+* Heather
+* Emma
 
-## Week1 - HTML, CSS, GitHub
+## Week1 - HTML, CSS, GitHub, DOM
 **Week**
-* Katherine
-* Virginie
-* Mireia
-
-** Morning challenge**
-* Sam
-* Franz
+* Heather
+* Noga
+* Emma
 
 ## Week2 - TDD
 **Week**
-* Ivan
-* Jack M
-* Tom
-
-** Morning challenge**
-* ...
+* Kara
+* Matt G
+* Mattia
 
 ## Week 3 - API
 **Week**
-* Owen
-* Tasnim
-* Elias
+* Sofia
+* Rich
+* Noga
 
-** Morning challenge**
-* ...
-
-## Week 4/5 - Node
+## Week 4/5 - Node & Hapi/Express
 **Week**
-* Andrew
-* Katherine
-* Rob
-* Sam
+* Brad
+* Rory
+* Gabriel
 
-** Morning challenge**
-* ...
-
-## Week 5/6 - Databases
-**Week**
-* Ivan
-* Tom
-* Franz
-
-** Morning challenge**
-* ...
+## Week 6/7 - Databases
+ * Rich
+ * Matt S
+ * Jakub
+ * Sam
+ * Matt G 
 
 ## Week 7 - Hapi
 **Week**
