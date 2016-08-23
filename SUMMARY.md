@@ -51,7 +51,6 @@
    * [Workshop](week5/workshop.md)
    * [Readme Topics](week5/readme_topics.md)
    * [Project](week5/projects.md)
-   * [Postgres Workshop](week5/postgres_workshop.md)
    * [Readme Topics Postgres](week5/readme_topics_postgres.md)
    * [Stop Go Continue](week5/stop_go_continue.md)
    * [Learning Outcomes](week5/learning-outcomes.md)
