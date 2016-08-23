@@ -1,2 +1,0 @@
-# Morning Challenge
-
