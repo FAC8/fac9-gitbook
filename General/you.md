@@ -1,5 +1,7 @@
 # Developing your online presence
 
+![](http://i.giphy.com/YAnpMSHcurJVS.gif)
+
 Regardless of whether you are looking for a job or wanting to work freelance, you will make your life easier if you have a visible online presence.
 
 Here is a checklist:
