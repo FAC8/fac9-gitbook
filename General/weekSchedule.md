@@ -1,5 +1,7 @@
 # General Week Schedule
 
+###NEEDS TO BE DISCUSSED
+
 #### Monday
 10:00 - 10:15 Show and Tell
 
