@@ -39,6 +39,7 @@
    * [Walktrough](week3/tfl_walkthrough_with_postman.md)
    * [Resources](week3/resources.md)
    * [Morning Challenge](week3/morning-challenge.md)
+   * Learning outcomes
 * [Week4-5](week4/index.md)
    * [Workshop](week4/workshop.md)
    * [Readme Topics](week4/readme_topics.md)
