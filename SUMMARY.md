@@ -30,7 +30,7 @@
    * [Stop Go Continue](week2/stop_go_continue.md)
    * [Morning Challenge](week2/morning_challenge.md)
    * [Resources](week2/resources.md)
-   * Walktrough
+   * [Walktrough](week2/walktrough.md)
 * [Week3](week3/index.md)
    * [XHR Workshop](week3/xhr_workshop.md)
    * [Readme Topics](week3/readme_topics.md)
