@@ -44,6 +44,7 @@
    * [Readme Topics](week4/readme_topics.md)
    * [Project](week4/projects.md)
    * [Stop Go Continue](week4/stop_go_continue.md)
+   * Walktrough
 * [Week5-6](week5/index.md)
    * [Workshop](week5/workshop.md)
    * [Readme Topics](week5/readme_topics.md)
