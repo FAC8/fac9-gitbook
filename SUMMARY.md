@@ -45,7 +45,7 @@
    * [Readme Topics](week4/readme_topics.md)
    * [Project](week4/projects.md)
    * [Stop Go Continue](week4/stop_go_continue.md)
-   * [Walktrough](week4/walktrough.md)
+   * [Learning outcomes](week4/walktrough.md)
    * [Morning Challenge](week4/morning-challenge.md)
    * [Resources](week4/resources.md)
 * [Week5-6](week5/index.md)
