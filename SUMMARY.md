@@ -10,7 +10,6 @@
    * [Week Schedule](General/weekSchedule.md)
    * [Calendar](General/calendar.md)
    * [FAC8 Responsibilities](General/responsibilities.md)
-   * Developing your online presence
 * [PreCourse](PreCourse/index.md)
    * [Resources List](PreCourse/resources_list.md)
    * [Exercises](PreCourse/exercises.md)
