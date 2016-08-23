@@ -1,6 +1,6 @@
 # Developing your online presence 👾
 
-![](http://i.giphy.com/YAnpMSHcurJVS.gif)
+
 
 Regardless of whether you are looking for a job or wanting to work freelance, you will make your life easier if you have a visible online presence.
 
@@ -17,3 +17,5 @@ Here is a checklist:
 + Contribute to open source projects on Github (we will be developing some later in the course)
 + Contribute to open source learning materials on Github (like ours!)
 + Contribute to Linkedin forums and groups
+
+![](http://i.giphy.com/YAnpMSHcurJVS.gif)
