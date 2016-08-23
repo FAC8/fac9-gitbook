@@ -5,7 +5,7 @@
    * [About FAC](General/about.md)
    * [Mentors](General/mentors.md)
    * [Space / Facilities](General/facilities.md)
-   * [Rules](General/rules.md)
+   * [Code of conduct](General/rules.md)
    * [Patterns of Work](General/patterns_of_work.md)
    * [Week Schedule](General/weekSchedule.md)
    * [Calendar](General/calendar.md)
