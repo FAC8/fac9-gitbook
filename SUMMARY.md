@@ -73,6 +73,7 @@
    * [Stop Go Continue](week8/stop_go_continue.md)
 * [Week9-10](week9/index.md)
    * [Learning outcomes](week9/learning_outcomes.md)
+       * f
    * [Resources](week9/resources.md)
    * [Morning Challenge](week9/morning-challenge.md)
    * [Workshop](week9/workshop.md)
