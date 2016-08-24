@@ -72,11 +72,11 @@
    * [Project](week8/projects.md)
    * [Stop Go Continue](week8/stop_go_continue.md)
 * [Week9-10](week9/index.md)
+   * [Learning outcomes](week9/learning_outcomes.md)
    * [Workshop](week9/workshop.md)
    * [Readme Topics](week9/readme_topics.md)
    * [Project](week9/projects.md)
    * [Stop Go Continue](week9/stop_go_continue.md)
    * [Morning Challenge](week9/morning-challenge.md)
-   * [Learning outcomes](week9/learning_outcomes.md)
    * [Resources](week9/resources.md)
 
