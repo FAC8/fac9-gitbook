@@ -17,7 +17,6 @@
    * [Tools to setup](PreCourse/tools_to_setup.md)
 * [Week1](week1/index.md)
    * [Learning outcomes](week1/learning-outcomes.md)
-       * whatever
    * [Resources](week1/resources.md)
    * [Morning challenge](week1/morning_challenge.md)
    * [Workshop](week1/workshop.md)
