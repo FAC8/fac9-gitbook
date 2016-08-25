@@ -39,7 +39,7 @@
    * [Readme Topics](week3/readme_topics.md)
    * [Project](week3/project.md)
    * [Stop Go Continue](week3/stop_go_continue.md)
-* [Week4-5](week4/index.md)
+* [Week4](week4/index.md)
    * [Learning Outcomes](week4/learning-outcomes.md)
    * [Resources](week4/resources.md)
    * [Morning Challenge](week4/morning-challenge.md)
