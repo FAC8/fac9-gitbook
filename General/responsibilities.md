@@ -19,7 +19,7 @@
 * Rich
 * Noga
 
-## Week 4/5 - Node & Hapi/Express
+## Week 4/5 - Node & Hapi
 * Brad
 * Rory
 * Gabriel
