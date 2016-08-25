@@ -12,7 +12,6 @@
 
 ## Week2 - TDD
 * Kara
-* Matt G
 * Mattia
 
 ## Week 3 - API
