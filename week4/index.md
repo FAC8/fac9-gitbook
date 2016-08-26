@@ -30,10 +30,11 @@ npm commands
   * `npm install --save-dev MODULE_NAME`: install MODULE\_NAME locally and add it as a development devependency in the package.json.
 
 ## Node core modules
+We are going to work mainly with 2 Node core modules, **http** and **fs**, but below we are going to show and describe a few more:
 
-* **http**
+* [**http**](https://nodejs.org/api/http.html#http_http): This module provide an interface for creating servers and clients supporting the [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) protocol. We be mainly working with the function [`createServer`](https://nodejs.org/api/http.html#http_http_createserver_requestlistener) of that module, but you are free to learn it more deeply.   
 
-* **fs**
+* [**fs**](https://nodejs.org/api/fs.html#fs_file_system)
 
 * **path**
 
