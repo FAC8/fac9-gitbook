@@ -11,6 +11,7 @@
    * [Calendar](General/calendar.md)
    * [FAC8 Responsibilities](General/responsibilities.md)
    * [Developing Your Online Presence](General/you.md)
+   * Tips for mentors
 * [PreCourse](PreCourse/index.md)
    * [Resources List](PreCourse/resources_list.md)
    * [Exercises](PreCourse/exercises.md)
