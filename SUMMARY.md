@@ -29,7 +29,7 @@
    * [Resources](week2/resources.md)
    * [Morning Challenge](week2/morning_challenge.md)
    * [Workshop](week2/workshop.md)
-   * [Readme Topics](week2/readme_topics.md)
+   * [Research day](week2/readme_topics.md)
    * [Project](week2/project.md)
    * [Stop Go Continue](week2/stop_go_continue.md)
 * [Week3](week3/index.md)
