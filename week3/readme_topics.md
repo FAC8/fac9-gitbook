@@ -25,8 +25,3 @@ suggested formats: screencast, slideshow + quizz, readmes + quizz
   - What is CORS?
 (slideshow +  quizz)
 
-### Tutorial Topics
-  - Using Chrome debugger
-  - Using Chrome element/styles inspector
-  - Inspecting AJAX requests with chrome network panel
-  
