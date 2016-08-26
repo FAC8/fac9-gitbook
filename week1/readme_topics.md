@@ -24,7 +24,19 @@ Suggested formats: screencast, slideshow + quiz, readmes + quiz
 * How to style boring HTML
 
 ## Manipulating the DOM
-* How to change the DOM
+
+key concepts:
+
+* Selecting DOM elements:
+  * `document.querySelector`
+  * `document.querySelectorAll`
+  * `document.getElementById`
+  * `document.getElementsByClassName`
+  * ...
+* NodeElements atributes and methods:
+  * `className`
+  * `classList`
+  * ...
 
 ## Using the command line (for cloning, staging, committing, pushing, etc)
 * How can someone use the command line to clone a repo, create a branch, stage, commit and push changes, and any other useful command line tricks
