@@ -1,4 +1,4 @@
-# Tips for teching code
+# Tips for teaching code
 
 ###10 Tips for Mentors from the Workshop Team
 
