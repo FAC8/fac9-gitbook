@@ -1,6 +1,4 @@
-# Tips for teaching code
-
-###10 Tips for Mentors from the Workshop Team
+# 10 tips for teaching code
 
 1. Always ask questions first. Most of the time the students actually know the answer, but just don’t feel confident in it.
 2. Encourage the students to type and not copy paste.
