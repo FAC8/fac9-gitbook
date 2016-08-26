@@ -8,7 +8,7 @@ Monday:
 * Monrning challange 
 * 11.00 - 13.00 -- Workshop - XHR Walkthrough 
 * 14.00 - 17.00 -- READMEs/Tutorials and presentations
-* 17.00 - 18.00 -- Campbell Morgan (SiteChef) Talk ???
+* 17.00 - 18.00 -- Talk ??? (last time was  Campbell Morgan (SiteChef) )
 
 Tuesday:
 * 10-11 -- [Morning Challenge](https://repl.it/C0n0/0) (async callbacks?)
