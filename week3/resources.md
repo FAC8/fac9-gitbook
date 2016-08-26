@@ -6,5 +6,4 @@
 * [Great video about the event loop (clickme)](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 * [HTTP: The Protocol Every Web Developer Must Know](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 * [Codeacademy API course](https://www.codecademy.com/learn/ibm-watson)
-* [cool API list]
-
+* [cool API list](https://market.mashape.com/explore)
