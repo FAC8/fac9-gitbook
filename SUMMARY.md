@@ -47,7 +47,7 @@
    * [Resources](week4/resources.md)
    * [Morning Challenge](week4/morning-challenge.md)
    * [Workshop](week4/workshop.md)
-   * [Readme Topics](week4/readme_topics.md)
+   * [Research day](week4/readme_topics.md)
    * [Project](week4/projects.md)
    * [Stop Go Continue](week4/stop_go_continue.md)
 * [Week5-6](week5/index.md)
