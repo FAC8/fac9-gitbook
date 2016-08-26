@@ -77,7 +77,6 @@
 * [Learning outcomes](week9/learning_outcomes.md)
 * [Week9-10](week9/index.md)
    * [Morning Challenge](week9/morning-challenge.md)
-   * [Learning outcomes](week9/learning_outcomes.md)
    * [Resources](week9/resources.md)
    * [Workshop](week9/workshop.md)
    * [Research day](week9/readme_topics.md)
