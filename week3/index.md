@@ -22,5 +22,5 @@ Wednesday-Thursday
 Friday
 * 10-11 -- Code review
 * 11-3 -- Respond to issues
-* 3-4 -- Presentations
-* 4-6 -- upstairs projects
+* 3-5 -- Presentations
+* 5-6 -- upstairs projects
