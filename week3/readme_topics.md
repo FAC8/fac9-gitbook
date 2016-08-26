@@ -3,6 +3,7 @@
 
 ### RESEARCH Topics
 
+Splitting into groups: jigsaw!
 suggested formats: screencast, slideshow + quizz, readmes + quizz
 
 #### HTTP Requests
@@ -14,6 +15,7 @@ suggested formats: screencast, slideshow + quizz, readmes + quizz
   - What are JSON objects, how are they different from 'normal' objects?
   - XML vs. JSON
 (screencast max 7min)
+
 #### APIs
   - What is an API, an HTTP API and a REST API?
   - What are API keys and how can you keep them secret / conceal them (without a backend)?
