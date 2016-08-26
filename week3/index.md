@@ -18,7 +18,7 @@ Tuesday:
 * 11-1 -- [Reputation Builder](https://github.com/tormod17/Reputation-Builder) (with Sofia)
 * 2-3 -- Postman walkthrough and TFL API (with Owen)
 * 3-16:30 onwards -- projects: research API's you would like to use on the projects
-* 16:30-18:00 Jarkyn(TBC) on Async testing
+* 16:30-18:00 worksho by Jarkyn from 8th light
 
 Wednesday-Thursday
 * Projects
