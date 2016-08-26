@@ -4,12 +4,12 @@
 ### RESEARCH Topics
 
 Splitting into groups: jigsaw!
-Suggested formats: screencast, slideshow + quizz, readmes + quizz
+Suggested formats: screencast, slideshow + quiz, readmes + quiz
 
 #### HTTP Requests
   - What is an HTTP request?
   - HTTP request methods and status codes
-  (slideshow + quizz)
+  (slideshow + quiz)
 
 #### JSON Objects
   - What are JSON objects, how are they different from 'normal' objects?
@@ -25,5 +25,5 @@ Suggested formats: screencast, slideshow + quizz, readmes + quizz
 #### API Standards
   - What is the Same origin policy?
   - What is CORS?
-(slideshow +  quizz)
+(slideshow +  quiz)
 
