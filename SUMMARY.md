@@ -63,7 +63,7 @@
    * [Resources](week7/resources.md)
    * [Morning Challenge](week7/morning-challenge.md)
    * [Workshop](week7/workshop.md)
-   * [Readme Topics](week7/readme_topics.md)
+   * [Research day](week7/readme_topics.md)
    * [Project](week7/project.md)
    * [Stop Go Continue](week7/stop_go_continue.md)
 * [Week8](week8/index.md)
