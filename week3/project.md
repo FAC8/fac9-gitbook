@@ -47,7 +47,7 @@ This will serve up your directory from `http://localhost:4000`. Mac OSX and Linu
 #### Bonus features:
 * Mobile first
 * Nice design (CSS!!!)
-* Add gifs! (jokes)
+* Add _original_ gifs! (jokes)
 
 
 
