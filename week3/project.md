@@ -57,4 +57,3 @@ This will serve up your directory from `http://localhost:4000`. Mac OSX and Linu
 * Don't repeat yourself. If you catch yourself repeating blocks of code with minor variations: stop it and refactor.
 * Everyone on the team must write at least one test.
 
-#### Stretch Goals:
