@@ -23,4 +23,4 @@ Friday
 * 10-11 -- Code review
 * 11-3 -- Respond to issues
 * 3-4 -- Presentations
-* 4-6 -- BizDev, SGC, upstairs projects
+* 4-6 -- upstairs projects
