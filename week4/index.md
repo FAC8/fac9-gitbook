@@ -6,9 +6,9 @@ At the beginning, [Netscape](https://en.wikipedia.org/wiki/Netscape) created Jav
 
 In mid-2000s the popularity of JavaScript start growing with web applications like Gmail. And after google open sourced [Chromium](https://en.wikipedia.org/wiki/Chromium_%28web_browser%29) people started to think about taking its JavaScript engine [V8](https://en.wikipedia.org/wiki/V8_%28JavaScript_engine%29) to use it also outside of the browser.
 
-So even though some people tend to think that node is a new language, it's not, it is only a new environment out of the browser to run JavaScript. That enviroment don't have access to the window, or to the [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) as you usually have in your browser JavaScript, but Node enviroment let you access to the file system, network or other staff that other languages like php gives you by default in its standard library. All this new cool things allows you to use JavaScript to build web servers \(backends\), command line applications.
+So even though some people tend to think that node is a new language, it's not, it is only a new environment out of the browser to run JavaScript. That enviroment don't have access to the window, or to the [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) as you have in your browser JavaScript. On the other hand, Node enviroment let you access to the file system, network or other staff that other languages like php gives you by default in its standard library. All this new cool things will allow us to use JavaScript to build web servers \(backends\), command line applications.
 
-> If at this point you still not seeing clear what's the difference between frontend and backend, you should read \[this\]\(https:\/\/en.wikipedia.org\/wiki\/Front\_and\_back\_ends\) but in a few words, the frontend is everything you see in your browser, and the backend is the application server you are running in your server.
+> If at this point you still not seeing clear what's the difference between frontend and backend, you should read [this](https://en.wikipedia.org/wiki/Front_and_back_ends). In a few words, the frontend is everything you see in your browser, and the backend is the application server you are running in your server.
 
 ## Node package manager
 
@@ -16,11 +16,11 @@ Node package manager \(npm from now\) is a tool for managing packages that comes
 
 npm commands
 
-* `npm init`: initialize a package and create a `package.json` with the definition of that package. 
+* `npm init`: Initialize a package and create a `package.json` with the definition of that package. 
 
-* `npm search MODULE_NAME`: search a module in the npm registry.
+* `npm search MODULE_NAME`: Search a module in the npm registry.
 
-* `npm install MODULE_NAME`: install MODULE\_NAME locally.
+* `npm install MODULE_NAME`: Install MODULE\_NAME locally.
 
   * `npm install -g MODULE_NAME`: install MODULE\_NAME globally.
 
