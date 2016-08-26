@@ -1,4 +1,9 @@
-# Readme Topics
+#Reseach day
+
+## Research Topics
+
+Splitting into groups: jigsaw!
+Suggested formats: screencast, slideshow + quiz, readmes + quiz
 
 ### Backend
 - Serving the React Bundle
