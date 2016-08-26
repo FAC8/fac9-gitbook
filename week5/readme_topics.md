@@ -1,7 +1,9 @@
-# Readmes
-# Redis week
+#Reseach day
 
-Split up into groups of four (one person from each team). Each team should tackle one of the following topics:
+## Research Topics
+
+Splitting into groups: jigsaw!
+Suggested formats: screencast, slideshow + quiz, readmes + quizes
 
 ## Redis data structures & folder structure
 
