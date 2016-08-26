@@ -1,4 +1,9 @@
-# Research Topics
+#Reseach day
+
+## Research Topics
+
+Splitting into groups: jigsaw!
+Suggested formats: screencast, slideshow + quiz, readmes + quiz
 
 You've done 7 research days so far, and should by now have a good idea of which format works best for your cohort. You have the freedom to decide which format you'd like to use to produce these resources \(READMEs with presentations, tutorials, screencasts, READMEs with issues\/quiz, a mixture of all of these\). But the decision must be a collective one.
 
