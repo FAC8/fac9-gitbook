@@ -3,11 +3,11 @@
 ###NEEDS TO BE DISCUSSED
 
 #### Monday
-10:00 - 10:15 Show and Tell
+09:45 - 10:15 Show and Tell
 
-10:15 - 13:00 Workshop
+10:15 - 11:15 Morning challange
 
-13:00 - 14:00 Lunch
+11:15 - 13:00 Workshops
 
 14:00 - 18:00 Readmes/Tutorials
 
