@@ -34,7 +34,7 @@ We are going to work mainly with 2 Node core modules, **http** and **fs**, but b
 
 * [**http**](https://nodejs.org/api/http.html#http_http): This module provide an interface for creating servers and clients supporting the [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) protocol. We be mainly working with the function [`createServer`](https://nodejs.org/api/http.html#http_http_createserver_requestlistener) of that module, but you are free to learn it more deeply.   
 
-* [**fs**](https://nodejs.org/api/fs.html#fs_file_system)
+* [**fs**](https://nodejs.org/api/fs.html#fs_file_system): Provide an interface with the file system, making our code able to read files and to store files in our system. Mainly we will be using [`readFile`](https://nodejs.org/api/fs.html#fs_fs_readfile_file_options_callback) and [`writeFile`](https://nodejs.org/api/fs.html#fs_fs_write_fd_buffer_offset_length_position_callback) functions.
 
 * **path**
 
