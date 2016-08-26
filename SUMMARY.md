@@ -34,7 +34,7 @@
    * [Stop Go Continue](week2/stop_go_continue.md)
 * [Week3](week3/index.md)
    * [Morning Challenge](week3/morning-challenge.md)
-   * [Workshop](week3/xhr_workshop.md)
+   * [Workshops](week3/xhr_workshop.md)
        * [Add-on workshop](week3/add-on_workshop.md)
    * [Readme Topics](week3/readme_topics.md)
    * [Project](week3/project.md)
