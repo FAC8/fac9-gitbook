@@ -37,7 +37,7 @@
    * [Workshops](week3/workshopsWeek3.md)
        * [XHR workshop](xhr_workshop.md)
        * [Add-on workshop](week3/add-on_workshop.md)
-   * [Research Topics](week3/readme_topics.md)
+   * [Research day](week3/readme_topics.md)
    * [Project](week3/project.md)
    * [Learning outcomes](week3/learning-outcomes.md)
    * [Resources](week3/resources.md)
