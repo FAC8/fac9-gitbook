@@ -4,7 +4,7 @@
 ### RESEARCH Topics
 
 Splitting into groups: jigsaw!
-suggested formats: screencast, slideshow + quizz, readmes + quizz
+Suggested formats: screencast, slideshow + quizz, readmes + quizz
 
 #### HTTP Requests
   - What is an HTTP request?
