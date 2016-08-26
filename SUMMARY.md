@@ -36,6 +36,7 @@
    * [Morning Challenge](week3/morning-challenge.md)
    * [Workshops](week3/xhr_workshop.md)
        * [Add-on workshop](week3/add-on_workshop.md)
+       * XHR workshop
    * [Readme Topics](week3/readme_topics.md)
    * [Project](week3/project.md)
    * [Learning outcomes](week3/learning-outcomes.md)
