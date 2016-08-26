@@ -1,4 +1,9 @@
-# Readme Topics
+#Reseach day
+
+## Research Topics
+
+Splitting into groups: jigsaw!
+Suggested formats: screencast, slideshow + quiz, readmes + quiz
 
 ### Hapi Plugins
 + What are Hapi plugins and how are they important to the architecture of Hapi?
