@@ -1,4 +1,5 @@
 # Week 4
+This week you will be introduced to *Node*, *Node Package Manager*, Node servers, and you will end building your own server and your own API.
 
 ## What is node?
 
