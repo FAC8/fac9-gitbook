@@ -1,7 +1,13 @@
-# README Topics
+# Research Day
 
 These topics are used for creating tutorials which other people in the cohort will complete.
 You will complete it in pairs with someone who is from a different team.
+
+
+### RESEARCH Topics
+
+Splitting into groups: jigsaw!
+Suggested formats: screencast, slideshow + quiz, readmes + quiz
 
 ## Git and Github
 * Define Git and Github
