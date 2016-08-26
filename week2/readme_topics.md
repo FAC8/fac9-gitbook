@@ -1,4 +1,7 @@
-# Readme Topics
+## RESEARCH Topics
+
+Splitting into groups: jigsaw!
+Suggested formats: screencast, slideshow + quiz, readmes + quiz
 
 # TDD Screen Cast Brief
 
