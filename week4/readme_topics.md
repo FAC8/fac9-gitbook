@@ -1,4 +1,9 @@
-# Readme Topics
+#Reseach day
+
+## Research Topics
+
+Splitting into groups: jigsaw!
+Suggested formats: screencast, slideshow + quiz, readmes + quiz
 
 Task 1 - 4 people
 Look in to the http core module and it’s methods. Investigate EventsEmitters.
