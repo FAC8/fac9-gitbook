@@ -49,9 +49,6 @@ This will serve up your directory from `http://localhost:4000`. Mac OSX and Linu
 * Nice design (CSS!!!)
 * Add __original__ gifs! (jokes)
 
-
-
-
 #### Keep in mind:
 * Hiding confidential information. When querying APIs with API keys, don't push these to Github!
 * DOM manipulation is expensive. Think of ways that you can minimise the number of DOM insertions in your code.
