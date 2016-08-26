@@ -40,7 +40,7 @@ This will serve up your directory from `http://localhost:4000`. Mac OSX and Linu
 #### Core features:
 * Use more than one API
 * Responsive design  
-* TDD
+* TDD (Look into stubbing/mocking functions to help test API requests)
 * Dynamic content
 * A solid README
 
@@ -48,6 +48,8 @@ This will serve up your directory from `http://localhost:4000`. Mac OSX and Linu
 * Mobile first
 * Nice design (CSS!!!)
 * Add __original__ gifs! (jokes)
+* Use local storage or session storage
+
 
 #### Keep in mind:
 * Hiding confidential information. When querying APIs with API keys, don't push these to Github!
@@ -56,5 +58,3 @@ This will serve up your directory from `http://localhost:4000`. Mac OSX and Linu
 * Everyone on the team must write at least one test.
 
 #### Stretch Goals:
-* Use local storage or session storage
-* Look into stubbing/mocking functions to help test API requests
