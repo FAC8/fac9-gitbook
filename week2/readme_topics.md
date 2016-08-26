@@ -1,4 +1,6 @@
-## RESEARCH Topics
+#Reseach day
+
+## Research Topics
 
 Splitting into groups: jigsaw!
 Suggested formats: screencast, slideshow + quiz, readmes + quiz
