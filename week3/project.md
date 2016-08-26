@@ -38,7 +38,7 @@ $ python -m SimpleHTTPServer 4000
 This will serve up your directory from `http://localhost:4000`. Mac OSX and Linux systems will already have python pre-installed. Let one of us know if you have problems with this option.
 
 #### Requirements:
-* Responsive design
+* Responsive design 
 * TDD
 * Dynamic content
 * A solid README
