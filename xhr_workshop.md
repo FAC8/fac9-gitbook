@@ -1,4 +1,3 @@
-# Workshops
 
 # XHR Workshop
 
