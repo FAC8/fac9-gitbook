@@ -40,6 +40,7 @@
    * [Learning outcomes](week3/learning-outcomes.md)
    * [Resources](week3/resources.md)
    * [Stop Go Continue](week3/stop_go_continue.md)
+   * Add-on workshop
 * [Week4](week4/index.md)
    * [Learning Outcomes](week4/learning-outcomes.md)
    * [Resources](week4/resources.md)
