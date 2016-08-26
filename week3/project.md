@@ -2,13 +2,11 @@
 Your project this week is to build a simple web app using test driven development that queries at least two APIs and uses the retrieved data to update the DOM.
 
 What you choose to build with this data and how you choose to display it is up to you.
-We suggest you spend any time you have on Tuesday afternoon:
+We suggest you spend any time you have on:
 
 * exploring APIs that you are interested in working with
 * coming up with ideas and picking the one you'll work on this week
 * deciding what you need to build for your Minimum Viable Product (MVP) and splitting up the tasks
-
-Any code you write on Tuesday afternoon MUST BE DELETED before you start on your projects.
 
 Like last week, you will have all of Wednesday and Thursday to work on your project, with code reviews on Friday morning. On Friday we'll have final presentations in the afternoon.
 
@@ -19,6 +17,8 @@ You are free to use any APIs you would like, but we recommend the following:
 * [TFL](https://api.tfl.gov.uk/)
 * [NASA](https://api.nasa.gov/)
 * [Star Wars API](https://swapi.co)
+* Google geolocation or maps
+
 
 ##### Notes:
 Most APIs provide a HTTP interface, where you query URLs to receive data. Some provide a javascript library (sometimes called an SDK) that packages up these requests for you. You are permitted (though not particularly encouraged) to use these kinds of APIs.
