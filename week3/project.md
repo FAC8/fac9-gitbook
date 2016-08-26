@@ -37,11 +37,20 @@ $ python -m SimpleHTTPServer 4000
 ```
 This will serve up your directory from `http://localhost:4000`. Mac OSX and Linux systems will already have python pre-installed. Let one of us know if you have problems with this option.
 
-#### Requirements:
-* Responsive design 
+#### Core features:
+* Use more than one API
+* Responsive design  
 * TDD
 * Dynamic content
 * A solid README
+
+#### Bonus features:
+* Mobile first
+* Nice design (CSS!!!)
+* Add gifs! (jokes)
+
+
+
 
 #### Keep in mind:
 * Hiding confidential information. When querying APIs with API keys, don't push these to Github!
