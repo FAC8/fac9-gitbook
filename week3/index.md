@@ -1,6 +1,7 @@
 # Week3
 
-
+This week you will be introduced to async XHR reuqests and API!!
+Hopefully you have looked at some of the pre-course materials on API's and we will be going into it more in depth through lots of great walkthroughs, workshops and an exciting project!
 
 
 ## Schedule
