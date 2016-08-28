@@ -34,4 +34,4 @@ You'll be using APIs in a number of your projects, so a basic understanding of w
 
 ####Chrome Dev Tools
 
-The developer tools provided in Chrome are great for debugging and working in the browser. [Free Code Camp](https://www.freecodecamp.com/map) has a brief video series that will take you through how to access and use each tool.
+The developer tools provided in Chrome are great for debugging and working in the browser. [Free Code Camp](https://www.freecodecamp.com/map) has a brief video series that will take you through how to access and use each tool. You may also want to look at Code School's free [Discover DevTool's course](https://www.codeschool.com/courses/discover-devtools), especially the first four levels.
