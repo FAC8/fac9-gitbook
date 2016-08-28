@@ -16,8 +16,7 @@
 ###Before the course we suggest you...
 
 * Run through some of the material with someone who hasn’t coded before - This is deployed to Read the docs for easy viewing
-* Get more practise! We recommend mentoring at CodeBar. Many of the attendees there are new to programming so it is good preparation for the course.
+* Get more practise! We recommend mentoring at [codebar](https://codebar.io/member/new). Many of the attendees there are new to programming so it is good preparation for the course.
 
 
 ##### #thanxNathalia for sending us these tips!
-
