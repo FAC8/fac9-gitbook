@@ -13,7 +13,7 @@
    * [Developing Your Online Presence](General/you.md)
    * [Tips for teaching code](General/tips_for_mentors.md)
 * [PreCourse](PreCourse/index.md)
-   * [Resources List](PreCourse/resources_list.md)
+   * [Resources List](PreCourse/installation_list.md)
    * [Exercises](PreCourse/exercises.md)
    * [Tools to setup](PreCourse/installation_list.md)
 * [Week1](week1/index.md)
