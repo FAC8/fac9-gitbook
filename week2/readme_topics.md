@@ -1,9 +1,4 @@
-#Reseach day
-
-## Research Topics
-
-Splitting into groups: jigsaw!
-Suggested formats: screencast, slideshow + quiz, readmes + quiz
+# Research day
 
 # TDD Screen Cast Brief
 
