@@ -14,7 +14,7 @@
    * [Tips for teaching code](General/tips_for_mentors.md)
 * [PreCourse](PreCourse/index.md)
    * [Resources List](PreCourse/learning_outcomes.md)
-   * [Exercises](PreCourse/exercises.md)
+   * [Exercises](PreCourse/pre-course_materials.md)
    * [Tools to Setup](PreCourse/installation_list.md)
 * [Week1](week1/index.md)
    * [Learning outcomes](week1/learning-outcomes.md)
