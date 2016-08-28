@@ -12,7 +12,7 @@ However, don't forget that **we don't use frameworks at FAC** – ignore Bootstr
 From our experience, you'll also find working on a personal project *very* useful; check the [Intermediate Front End Development Projects](https://www.freecodecamp.com/map) section on Free Code Camp for some inspiration, or think of an idea yourself – previous FAC students have built stopwatches, personal websites, and noughts and crosses games.
 
 ####JavaScript
-While completing the prerequisites means you should already be fairly comfortable with using JavaScript, in the course we'll be delving much deeper into the language. [JavaScript: Understanding the Weird Parts](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts) is a great (if lengthy!) introduction to some of JavaScript's more advanced features like callbacks and IIFEs.
+While completing the prerequisites means you should already be fairly comfortable with using JavaScript, in the course we'll be delving much deeper into the language. [JavaScript: Understanding the Weird Parts](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts) is a great (if lengthy!) introduction to some of JavaScript's more advanced features like callbacks and IIFEs.  The cheerfully named [CallBack Hell](http://callbackhell.com/) is an excellent quick guide to callbacks and writing asynchronous JavaScript programs.
 
 It will also come in handy to have at least reading familiarity with a few ES6 features you'll likely be seeing a lot: arrow functions, template literals, and the `let` and `const` keywords.
 
