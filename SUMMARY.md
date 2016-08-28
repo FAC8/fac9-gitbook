@@ -15,7 +15,7 @@
 * [PreCourse](PreCourse/index.md)
    * [Resources List](PreCourse/learning_outcomes.md)
    * [Exercises](PreCourse/exercises.md)
-   * Tools to Setup
+   * [Tools to Setup](installation_list.md)
 * [Week1](week1/index.md)
    * [Learning outcomes](week1/learning-outcomes.md)
    * [Resources](week1/resources.md)
