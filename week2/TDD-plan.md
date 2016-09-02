@@ -1,13 +1,14 @@
 13/06/2016
 ## Preparation
 ### TODO
-* DWYL TDD & Travis tutorials
+* Qunit: Introduction plus Roman Numerals code-along (Monday)
+* DWYL TDD tutorials-- afternoon workshop in groups
 * Look into
-* Is Eighth light willing?
+* Is Eighth light willing?  --Jarkyn is coming in the following week to do async testing for API week
 * Fix Tutorial topics
 * Finish Schedule
-* TDD freestyle demo
-* research modules for readMe topic
+* TDD freestyle demo  Roman Numerals, and then have them do afternoon workshop using dwyl tutorial (change machine).  I think sticking with Quint and then introducing quickly the idea of Jasmine (ie, there are other testing frameworks--here it is, etc, look over the weekend at it for next week).  
+* research modules for readMe topic -- do video tutorials for ping pong.
 
 ### Learning Objectives:
 * What is TDD and how to implement
@@ -35,7 +36,7 @@
   * Examples of each
 
 
-Talk by eighth light on paired programming
+Talk by eighth light on paired programming (probably not Jarkyn, so either it is us, or we need to get someone else in)
 
 ### Timetable
 Monday:
