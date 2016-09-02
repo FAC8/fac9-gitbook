@@ -1,12 +1,15 @@
 13/06/2016
 ## Preparation
 ### TODO
-* Qunit: Introduction plus Roman Numerals code-along (Monday)
-* DWYL TDD tutorials-- afternoon workshop in groups
-* Look into
-* Is Eighth light willing?  --Jarkyn is coming in the following week to do async testing for API week
-* Fix Tutorial topics
-* Finish Schedule
+* Clear Introduction writing a test (first thing Monday), what it is and how to do it.
+* Qunit: Introduction plus Roman Numerals code-along (Monday)--Anneka
+* DWYL TDD tutorials-- afternoon workshop in groups (Monday)
+* Tuesday morning: ping pong pair programming
+* Tuesday afternoon: Read-Me Day, but we are doing video tutorials on testing done in pairs with ping pong pair programming
+* Wednesday: Mattia introduce Jasmine and legacy code TDD and possibly arrange speaker 
+* End of Wednesday: quick overview of how to do async testing give them stopwatch project
+* (Note: Jarkyn is coming in the following week to do async testing for API week)
+* 
 * TDD freestyle demo  Roman Numerals, and then have them do afternoon workshop using dwyl tutorial (change machine).  I think sticking with Quint and then introducing quickly the idea of Jasmine (ie, there are other testing frameworks--here it is, etc, look over the weekend at it for next week).  
 * research modules for readMe topic -- do video tutorials for ping pong.
 
