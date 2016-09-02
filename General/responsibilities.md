@@ -13,6 +13,7 @@
 ## Week2 - TDD
 * Kara
 * Mattia
+* Anneka
 
 ## Week 3 - API
 * Sofia
