@@ -10,12 +10,6 @@ This is an open-ended project on which you will be working for two days. You can
 
 As a minimum requirement, your blog should have profiles of each of your group members and each profile should include links to your ```Linkedin```, ```Github``` and ```Codewars``` accounts. Your website should be published on ```gh-pages```. We will also be checking your site for accessibility on Tenon.io
 
-### **What’s the point?**
-* Get familiar with a wide range of web technologies and tools
-* Get used to working together in groups
-* Produce a lasting record of your experience at Founders & Coders
-* Get flashy with CSS
-* Make your site responsive and mobile friendly
 
 ### **Topics:**
 * Internet & Web
