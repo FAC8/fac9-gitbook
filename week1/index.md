@@ -18,7 +18,7 @@ Tuesday:
 * 14.00- 18:00 -- Research topics and presentation
 
 Wednesday-Thursday
-* Projects
+* Project time! :)
 
 Friday
 * 10-11 -- Code review
