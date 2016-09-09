@@ -9,7 +9,7 @@
 
 ### Wed 5/7 Afternoon
 
-* Redis Workshop (Tom, Ivan)
+* Redis Workshop 
 * Redis readmes/tutorials.
 
 
