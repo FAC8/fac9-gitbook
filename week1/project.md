@@ -11,16 +11,6 @@ This is an open-ended project on which you will be working for two days. You can
 As a minimum requirement, your blog should have profiles of each of your group members and each profile should include links to your ```Linkedin```, ```Github``` and ```Codewars``` accounts. Your website should be published on ```gh-pages```. We will also be checking your site for accessibility on Tenon.io
 
 
-### **Topics:**
-* Internet & Web
-* Development environments
-* Command line
-* Git & GitHub
-* GitHub Pages
-* Markdown
-* HTML & CSS
-* Social Media
-* Mobile first design
 
 ### Some cool profile pages
 Article, Meet the team pages
