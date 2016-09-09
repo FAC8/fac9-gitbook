@@ -17,10 +17,16 @@ The learning outcomes for this week are
 
 If you can do all of these, congratulations!!
 
-### Bonus Learning Outcomes
+### **Topics:**
+* Internet & Web
+* Development environments
+* Command line
+* Git & GitHub
+* GitHub Pages
+* Markdown
+* HTML & CSS
+* Social Media
+* Mobile first design
 
-+ Understand and use Handlebars partials, layouts and helpers
-+ Organise a 'feature' of your app into a Hapi plugin
-+ Understand and use SASS variables, mixins and nesting
-+ Use SASS control directives (like `@for`, `@if` and `@each`) to set up a group of css selectors
+
 
