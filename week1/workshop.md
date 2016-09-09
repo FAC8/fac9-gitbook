@@ -18,13 +18,11 @@ Students will gain some experience using CSS to alter the appearance of elements
 * Use JavaScript to add form data to the DOM
 * Road Map
 
-##Introduction
-* Before lunch: Quick exercise to get groups started on Github
-* After lunch: Design and build your first app
-
 ##Plan
 ###Introduction (5 minutes) (1200)
 Outline for the day, presenting road-map, introducing first task.
+
+###Gitflow workshop (with Heather)
 
 #####GitHub from Day 1
 * Introduce groups to good GitHub organisation and team-working practices
