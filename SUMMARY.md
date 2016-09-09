@@ -58,7 +58,7 @@
    * [Research day](week5/readme_topics.md)
    * [Project](week5/projects.md)
    * [Stop Go Continue](week5/stop_go_continue.md)
-* [Week7](week7/index.md)
+* [Week5](week7/index.md)
    * [Learning Outcomes](week7/learning_outcomes.md)
    * [Resources](week7/resources.md)
    * [Morning Challenge](week7/morning-challenge.md)
