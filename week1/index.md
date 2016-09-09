@@ -1,11 +1,15 @@
 # Week1
 
+This week you will all get to know each other and FAC.
+You will also dive into the world g github and start working in your teams on a project. We will concentrate on html, css and DOM manipulation.
+
 ## Schedule
 Monday: 
-* Monrning challange 
-* 11.00 - 13.00 -- Workshop - XHR Walkthrough 
-* 14.00 - 17.00 -- READMEs/Tutorials and presentations
-* 17.00 - 18.00 -- Talk ??? (last time was  Campbell Morgan (SiteChef) )
+* 10.00 - 12.00 -- Introductions
+* 12.00 - 13.00 -- FAC's values
+* 14.00 - 15.30 -- DOM manipulation workshop (Noga)
+* 15.30 - 17.00 -- CSS3 workshop (Noga)
+* 17.00 - 18.00 -- Talk ??? (who is in?)
 
 Tuesday:
 * 10-11 -- [Morning Challenge](https://repl.it/C0n0/0) (async callbacks?)
