@@ -9,15 +9,11 @@ The learning outcomes for this week are
 + CSS3
 + Semantic HTML
 + Gitflow and use of github
-+ Working as a team
-+ 
-
-+ Serve static files (like css or js files) using the `Inert` plugin
-+ Serve html templates using `Handlebars` and Hapi's `Vision` plugin
-+ Validate a user's input using the `Joi` plugin
-+ Set up a basic user login with the `Hapi Auth Basic` plugin
-+ Test all of these using `tape` (Hapi has `shot` built in so it's super nice to test!)
-+ Set up `SASS` to modularise your css using `@import`
+* Get familiar with a wide range of web technologies and tools
+* Get used to working together in groups
+* Produce a lasting record of your experience at Founders & Coders
+* Get flashy with CSS
+* Make your site responsive and mobile friendly
 
 If you can do all of these, congratulations!!
 
