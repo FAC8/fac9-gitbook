@@ -12,22 +12,17 @@ Monday:
 * 17.00 - 18.00 -- Talk ??? (who is in?)
 
 Tuesday:
-* 10-11 -- [Morning Challenge](https://repl.it/C0n0/0) (async callbacks?)
-* 11-1 -- [Reputation Builder](https://github.com/tormod17/Reputation-Builder) (with Sofia)
-* 2-3 -- Postman walkthrough and TFL API (with Owen)
-* 3-16:30 onwards -- projects: research API's you would like to use on the projects
-* 16:30-18:00 worksho by Jarkyn from 8th light
+* 10-11 -- [Morning Challenge](https://repl.it/C0n0/0) (flexbox froggy)
+* 11-13.00 -- Gitflow walkthrough (with Heather)
+* 14.00- 18:00 Reasearch
 
 Wednesday-Thursday
 * Projects
 
 Friday
 * 10-11 -- Code review
-* 11-3 -- Respond to issues
-* 3-5 -- Presentations
+* 11-13 -- Respond to issues
+* 13-14 -- Stop/go/continue
+* 14-5 -- Presentations
 * 5-6 -- upstairs projects
-## Topics
 
-Brief introduction
-
-## Resources
