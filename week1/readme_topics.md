@@ -3,7 +3,6 @@
 These topics are used for creating tutorials which other people in the cohort will complete.
 You will complete it in pairs with someone who is from a different team.
 
-
 ### RESEARCH Topics
 
 Splitting into groups: jigsaw!
