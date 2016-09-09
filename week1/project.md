@@ -42,13 +42,13 @@ Article, Meet the team pages
 * How will you make it pretty?
 * Try drawing out wireframes of your app. It's okay to design parts of a page that won't function (e.g. menu buttons) as well as think about elements that might enhance your user's experience.  Try to think about how it might break or annoy a user.
 
-###Planning and setup (1450) (30 mins)
+###Planning and setup(30 mins)
 * Write a README for your app - WHY / WHAT / HOW. Finish with a bullet-point project plan, and mark your more ambitious features as "stretch goals".
 
 * Groups should split into pairs again, making sure they are constantly communicating with each other. Divide the tasks between the pairs, and decide how you will work together to avoid conflicts in the code. Two spaces or four...?
 
 
-###Do the codes (1530) (90 mins)
+###Do the codes 
 The goal isn't to break new ground, it is to get students working together (and hopefully enjoying it!).
 
 Think about all the worst practices you dealt with in the first exercise and avoid them.
