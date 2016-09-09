@@ -8,7 +8,7 @@ The learning outcomes for this week are
 + Working as a team`
 + html, css and js working together
 + DOM manipulation
-+ 
++ Se,antic HTML
 + Serve static files (like css or js files) using the `Inert` plugin
 + Serve html templates using `Handlebars` and Hapi's `Vision` plugin
 + Validate a user's input using the `Joi` plugin
