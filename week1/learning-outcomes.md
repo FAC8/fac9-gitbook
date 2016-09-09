@@ -4,11 +4,14 @@ The learning outcomes for this week are
 
 ### Core Learning Outcomes
 
-+ Gitflow and use of github
-+ Working as a team`
-+ html, css and js working together
++ FAC values!
 + DOM manipulation
-+ Se,antic HTML
++ css3
++ Semantic HTML
++ Gitflow and use of github
++ Working as a team
++ 
+
 + Serve static files (like css or js files) using the `Inert` plugin
 + Serve html templates using `Handlebars` and Hapi's `Vision` plugin
 + Validate a user's input using the `Joi` plugin
