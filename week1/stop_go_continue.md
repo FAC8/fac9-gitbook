@@ -2,20 +2,10 @@
 
 #### Stop
 
-Length of time on readies, 4 hours for a readme is too much time. Some topics did not have enough time. A solution could be to ensure each readme topic is sufficiently long. More subheadings for what to cover would be useful
 
 #### Go
 
-More time spent teaching git workflow, a morning challenge on git workflow would be good.
 
-Dom manipulation is quite difficult. A solution would be to do a morning challenge on the dom, changing the prerequisites to include dom manipulation.
-More resources should have been available before the course for dom manipulation.
-
-Make sure pair programming is enforced from the start. It would be good to have an explanation on what is pair programming.
-
-Making sites responsive is a possible addition to the readies
-
-Clarify that you should be pushing and pulling often.
 
 To have advice on how to mange a team and divide up work and also talk about linting and code standards.
 
