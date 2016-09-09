@@ -6,7 +6,7 @@ The learning outcomes for this week are
 
 + FAC values!
 + DOM manipulation
-+ css3
++ CSS3
 + Semantic HTML
 + Gitflow and use of github
 + Working as a team
