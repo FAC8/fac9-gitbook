@@ -40,3 +40,4 @@ Students will separate out hard-coded CSS and JS from a static page. Groups will
 * Each group will share a challenge they faced and their solution with the group
 * Instructor will ask groups for brief examples of good/bad practice, and offer up tips
 
+
