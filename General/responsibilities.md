@@ -36,7 +36,7 @@
 * Matt S
 * Mattia
 
-## Week 9/10 - React&Redux
+## Week 9/10 - UX/UI
 * Noga
 * Jakub
 * Sofia
