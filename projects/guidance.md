@@ -9,8 +9,11 @@ In general, work, and take on roles, in pairs, so you can give each other suppor
 ### Project managers
 Pick a project management team of two. One can take the lead and the other can provide support. Take it in turns to take the lead and provide support for each other. Project managers' responsibilites are:
 + Client communication
++ Agreeing the scope
++ Agreeing the development stack
 + Running the morning standups
 + Ensuring that communication guidelines are followed
++ Advising the client about user research and testing
 
 ### Code reviewers
 Pick a code review team of two. One can take the lead and the other can provide support. Take it in turns to take the lead and provide support for each other. Coder reviewers' responsibilities are:
