@@ -13,7 +13,7 @@ We suggest you spend any time you have on:
 - work as a team, dividing roles and doing stand-ups
 - use github issues and labels 
 - think carefully about your project as an MVP, how and what to prioritize.
-- Use any of the programming knowledge you learned, but keep it simple!
+- Use all of the programming knowledge you learned, but keep it simple!
 
 ###and as already mentioned before:
 
