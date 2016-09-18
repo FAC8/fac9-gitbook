@@ -14,4 +14,11 @@ We suggest you spend any time you have on:
 - use github issues and labels 
 - think carefully about your project as an MVP, how and what to prioritize.
 - Use any of the programming knowledge you learned, but keep it simple!
-- most importantly - have fun!!!! 
+
+###and as already mentioned before:
+
++ This is all about learning.
++ Try your best to get the core features done by the end of the week, but if you don't, it's not the end of the world - (look back through it on the weekend and play around with some of the stuff you didn't finish).
++ Your whole team MUST understand ALL the features you're implementing (if they don't, either explain it fully, or DON'T implement it)
+
+# most importantly - have fun!!!! 
