@@ -1,16 +1,7 @@
-![](g4145.png)
 
-# Projects
+##Now make it!
 
-features:
+### 8 people, 6 days, 2 groups!
 
-* profiles
-* *review
-* ratings
-* search
-* filtering
-* categories
-* post photo
-* log in with facebook
-* contact/email direct
-* 
+Use the knowledge of the last 10 weeks to build two different projects all together in two loving and supporting teams!
+
