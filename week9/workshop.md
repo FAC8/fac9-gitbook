@@ -10,8 +10,9 @@ Introduction to the concepts and the theory of UX -
 
 (GV Monday)
 "meet the clients" -
-Presented with a pitch for an app, what needs to be considered?
-We will spend the next few days thinking about this idea and applying core UX strategies, in order to uderstand better the clients need vs realistic development goals.
+Presented with a client's pitch for an app - what needs to be considered?
+
+We will spend the next few days thinking about this idea and applying core UX strategies, in order to understand better the clients need vs realistic development goals.
 
 
 ### Tuesday
