@@ -5,8 +5,8 @@ This week's workshops are based on our own experience as well as on Google Ventu
 ### Monday
 Harry Fox Short Talk -
 
-Introduction to the concepts and the theory
-the main point: What is the value of UX?
+Introduction to the concepts and the theory of UX -
+"What is the value of UX?"
 
 (GV Monday)
 
