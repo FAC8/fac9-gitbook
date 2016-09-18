@@ -16,7 +16,7 @@ Suggested formats: screencast, slideshow + quiz, readmes + quiz
   
 ### User Journeys and User Stories 
   - What is the difference between a Journey and a Story?
-  - What is the Job To be Done?
+  - What is 'the Job To be Done'?
   
 ### Usability & Accessibility
   - What is Accessibility?
