@@ -1,15 +1,37 @@
 # Weeks 9-10
 
-## Topics
+## Schedule
+Monday (12/12): 
+* 10.00 - 11.00 -- UX/UI Introduction with Harry
+* 11.00 - 13.00 -- Introduction to the project - Meet the clients
+* 14.00 - 15.30 -- User research and User personas workshop
+* 15.30 - 17.00 -- research 
+* 17.00 - 18.00 -- Ayesha from UsTwo - talk
 
-### Monday 
-10-12 Code along (Boilerplate) / Jack and Sam
-12-1 Egghead
-1-2 Lunch
-2-6 React tutorial [Realistic comments box](https://facebook.github.io/react/docs/tutorial.html) / Mireia
+Tuesday:
+* 10.00 - 11.00 -- Presentations of research topics 
+* 11.00 - 12.00 -- "Dont make me think!" walkthrough with Noga
+* 12.00 - 13.00 -- 'Ideation' (from Google Venture)
+* 14.00 onwards -- 'Decide' (from Google Venture)
 
-### Tuesday
-10-5 Build a ToDo list (write spec) + presentations
-5-6 Project intro: Amazon
+Wednesday
+* 10.00 - 11.00 -- "Designing with performance in mind" walkthrough with Sofia
+* 11.00 - onwards -- Prototype and prepare for user testing
+
+Thursday (15/12)
+* 10.00 - 15.00 -- User testing (4 Groups - 4 test users)
+* 15.00 - 17.00 -- presentations
+* 17.00 - 18.00 -- Talk with Oliver from ticket master
+
+Friday - Thursday
+* Now make it! - two 8 people projects based on learned technologies and UX/UI design principles learned.
+
+Friday 
+* 10-11 -- Code review
+* 11-3 -- Respond to issues
+* 3-4 -- Presentations
+* 4-6 -- upstairs projects
+
+Happy Xmass!!!!
 
 
