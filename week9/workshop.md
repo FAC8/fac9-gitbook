@@ -9,6 +9,10 @@ Introduction to the concepts and the theory of UX -
 "What is the value of UX?"
 
 (GV Monday)
+"meet the clients" -
+Presented with a pitch for an app, what needs to be considered?
+We will spend the next few days thinking about this idea and applying core UX strategies, in order to uderstand better the clients need vs realistic development goals.
+
 
 ### Tuesday
 Noga Short talk about the seminal UX book:
