@@ -5,7 +5,7 @@ In the next two weeks you will be introduced to core concepts and ideas of User 
 
 The project this week is a long 'sprint' (Friday till thursday) and it will incorporate all the knowledge you have learned in the last weeks. 
 
-enjoy! :)
+ :)
 
 
 ## Schedule
