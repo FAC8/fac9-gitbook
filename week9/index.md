@@ -3,8 +3,6 @@ These are your last two weeks of the this part of FAC's journey so
 ###WELL DONE!!! 
 In the next two weeks you will be introduced to core concepts and ideas of User Experience (UX) and User Interface (UI) design.
 
-These are really important concepts to know and understand. These concepts are often overlooked by web devs, but we think that knowing about it will make you a much better developer!
-
 The project this week is a long 'sprint' (Friday till thursday) and it will incorporate all the knowledge you have learned in these last 10 weeks. 
 enjoy! :)
 
