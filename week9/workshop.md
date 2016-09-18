@@ -11,10 +11,11 @@ Introduction to the concepts and the theory of UX -
 (GV Monday)
 
 ### Tuesday
-Noga Short talk about 
+Noga Short talk about the seminal UX book:
 
 "Dont make me think" - seminal UX work
-'UI' core principals.
+
+as well as - 'UI'101.
 
 (GV Tuesday + Wednesday)
 
