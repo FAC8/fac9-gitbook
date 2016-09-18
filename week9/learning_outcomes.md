@@ -12,3 +12,4 @@
 - What are wireframes
 - What is a prototype
 - Designing with accessibility and usability in mind.
+- Designing with performance in mind
