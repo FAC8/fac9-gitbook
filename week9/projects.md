@@ -5,3 +5,8 @@
 
 Use the knowledge of the last 10 weeks to build two different projects all together in two loving and supporting teams!
 
+What you choose to build and how you choose to display it is up to you.
+We suggest you spend any time you have on:
+
+- UX/UI principals learned this week
+- 
