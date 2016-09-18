@@ -1,12 +1,14 @@
 # Learning outcomes
 
-- Able to set up a basic react project
-
-- Understand the roles of Babel, webpack, JSX
-
-- Able to write React components in JSX
-
-- Know what the component lifecycle methods are and when / why to use them
-
-- Gain familiarity with es6 syntax (object spreading, import/export, destructuring arguments
-
+- Core principals of UX design for the web
+- Core principals of UI design for the web
+- What is the difference between UX and UI
+- A better understanding of core UX concepts such as: User journeys, user stories and Personas.
+- User testing and why is it so important
+- Good design vs Bad design
+- Working with clients (!important)
+- Designing as a team 
+- How does design affect the way we code
+- What are wireframes
+- What is a prototype
+- Designing with accessibility and usability in mind.
