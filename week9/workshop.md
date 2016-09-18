@@ -1,33 +1,25 @@
 # Workshop
 
+This week's workshops will be based on our own experience as well as largely on Google Venutres workshop.
+
 ### Monday
+Harry Short Talk about
 
-10 - 10:30 Talk on What is React? Why are we using it?
+Introduction to the concepts and the theory
+the main point: What is the value of UX?
 
-10:30 - 11:30 Introduction to Webpack and building your first React component
-
-11:30 - 13:00 Patterns to follow in React and building more components
-
-14:00 - 18:00 Walkthrough on building a comments box in React
+(GV Monday)
 
 ### Tuesday
+Noga Short talk about 
 
-10 - 12 Readmes
+"Dont make me think" - seminal UX work
+'UI' core principals.
 
-12 - 1 Present Readmes
-
-2 - 4 Challenge: make a todo list (work in pairs)
-
-4 - 5 Present what you have done, go through code
-
-5 - 6 Introduce your project
+(GV Tuesday + Wednesday)
 
 ### Wednesday
 
-10 - 5 Project
+Sofia Short Talk about
 
-5 - 6 Talk by Ivan Maeder of https://www.techwillsaveus.com/
-
-### Thursday, Friday
-
-Project
+"Designing with Performance in Mind"
