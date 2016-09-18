@@ -23,8 +23,8 @@ Tuesday:
 * 14.00 onwards -- 'Decide' (from Google Venture)
 
 Wednesday
-* 10.00 - 11.00 -- "Designing with performance in mind" walkthrough with Sofia
-* 11.00 - onwards -- Prototype and prepare for user testing
+* 10.00 - 11.00 -- "Designing with performance in mind" walk-through with Sofia
+* 11.00 - onward -- Prototype and prepare for user testing
 
 Thursday (15/12)
 * 10.00 - 15.00 -- User testing (4 Groups - 4 test users)
