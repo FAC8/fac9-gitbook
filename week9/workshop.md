@@ -12,7 +12,7 @@ Introduction to the concepts and the theory of UX -
 "meet the clients" -
 Presented with a client's pitch for an app - what needs to be considered?
 
-We will spend the next few days thinking about this idea and applying core UX strategies, in order to understand better the clients need vs realistic development goals.
+We will spend the next few days thinking about this idea and applying core UX strategies, in order to understand better the clients needs, alongside realistic development goals.
 
 
 ### Tuesday
