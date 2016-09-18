@@ -13,7 +13,7 @@ Monday (12/12):
 * 10.00 - 11.00 -- UX/UI Introduction with Harry
 * 11.00 - 13.00 -- Introduction to the project - Meet the clients
 * 14.00 - 15.30 -- User research and User personas workshop
-* 15.30 - 17.00 -- research 
+* 15.30 - 17.00 -- research topics
 * 17.00 - 18.00 -- Ayesha from UsTwo - talk
 
 Tuesday:
