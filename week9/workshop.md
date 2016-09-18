@@ -21,6 +21,6 @@ as well as - 'UI'101.
 
 ### Wednesday
 
-Sofia Short Talk about
+Sofia Short Talk:
 
 "Designing with Performance in Mind"
