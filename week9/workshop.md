@@ -3,7 +3,7 @@
 This week's workshops are based on our own experience as well as on Google Ventures workshop.
 
 ### Monday
-Harry Short Talk about
+Harry Fox Short Talk -
 
 Introduction to the concepts and the theory
 the main point: What is the value of UX?
