@@ -1,6 +1,6 @@
 # Workshop
 
-This week's workshops are based on our own experience as well as on Google Venuture workshop.
+This week's workshops are based on our own experience as well as on Google Ventures workshop.
 
 ### Monday
 Harry Short Talk about
