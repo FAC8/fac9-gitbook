@@ -1,5 +1,5 @@
 # Weeks 9-10
-These are your last two weeks of the this part of FAC's journey so 
+These are your last two weeks of this part of FAC's journey so 
 ###WELL DONE!!! 
 In the next two weeks you will be introduced to core concepts and ideas of User Experience (UX) and User Interface (UI) design.
 
