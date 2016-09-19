@@ -1,9 +1,9 @@
 # Weeks 9-10
 These are your last two weeks of this part of FAC's journey so 
 ###WELL DONE!!! 
-In the next two weeks you will be introduced to core concepts and ideas of User Experience (UX) and User Interface (UI) design.
+In the next two weeks you will be introduced to the core concepts and ideas of User Experience (UX) and User Interface (UI) design.
 
-The project this week is a long 'sprint' (Friday till thursday) and it will incorporate all the knowledge you have learned in the last weeks. 
+The project this week is a long-ish 'sprint' (Fri till Wed), and it will incorporate all the knowledge you have learned in the past few weeks. 
 
  :)
 
@@ -28,17 +28,17 @@ Wednesday
 
 Thursday (15/12)
 * 10.00 - 15.00 -- User testing (4 Groups - 4 test users)
-* 15.00 - 17.00 -- presentations
-* 17.00 - 18.00 -- Talk with Oliver from ticket master
+* 15.00 - 17.30 -- Now make it! two, 8 people projects, based on learned technologies and UX/UI design principles learned.
+* 17.30 - 18.30 -- Talk with Oliver from ticket master
 
-Friday - Thursday
-* Now make it! - two 8 people projects based on learned technologies and UX/UI design principles learned.
+Friday - Tuesday
+* Working on project
 
-Friday 
-* 10-11 -- Code review
-* 11-3 -- Respond to issues
-* 3-4 -- Presentations
-* 4-6 -- upstairs projects
+Wednesday 
+* 10.00 - 12.00 -- Finish work on project
+* 12.00 - 13.00 -- code review
+* 14.00 - 16.00 -- Respond to issues
+* 16.00 - 18.00 -- Presentations
 
 Happy Xmass!!!!
 
