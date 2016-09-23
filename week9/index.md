@@ -18,7 +18,7 @@ Monday (12/12):
 
 Tuesday:
 * 10.00 - 11.00 -- Presentations of research topics 
-* 11.00 - 12.00 -- "Dont make me think!" walkthrough with Noga
+* 11.00 - 12.00 -- "Dont make me think!" walk-through with Noga
 * 12.00 - 13.00 -- 'Ideation' (from Google Venture)
 * 14.00 onwards -- 'Decide' (from Google Venture)
 
