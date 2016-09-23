@@ -14,7 +14,7 @@ Monday (12/12):
 * 11.00 - 13.00 -- Introduction to the project - Meet the clients
 * 14.00 - 15.30 -- User research and User personas workshop
 * 15.30 - 17.00 -- research topics
-* 17.00 - 18.00 -- Ayesha Moarif, lead UX designer from UsTwo - talk (TBC)
+* 17.00 - 18.00 -- Ayesha Moarif, lead UX designer from UsTwo - talk 
 
 Tuesday:
 * 10.00 - 11.00 -- Presentations of research topics 
