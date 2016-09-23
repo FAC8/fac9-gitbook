@@ -16,7 +16,7 @@ We will spend the next few days thinking about this idea and applying core UX st
 
 
 ### Tuesday
-Noga Short talk about the seminal UX book:
+Noga short walk-through about the seminal UX book:
 
 "Dont make me think" - seminal UX work
 
@@ -26,6 +26,6 @@ as well as - 'UI'101.
 
 ### Wednesday
 
-Sofia Short Talk:
+Sofia short walk-through:
 
 "Designing with Performance in Mind"
