@@ -1,5 +1,18 @@
-#Workshop
-##Introduction
+#Workshops week1
+
+###semantic HTML (with Noga & Heather)
+
+In this workshop you will be learning about semantic HTML, why its good and how to start using it.
+
+You will have to re-edit an HTML document into semantic HTML using the some of the basic semantic tags.
+
+Good reads about "Divitis" 
+- https://www.smashingmagazine.com/2013/01/the-importance-of-sections/#the-problem-with-div
+
+- https://codepen.io/mi-lee/post/an-overview-of-html5-semantics
+
+
+##Github introduction
 The aim of the workshop is to give students experience and understanding in using GitHub to build static web pages, as well as using CSS and .js files as separate resources for a static form.
 
 Students will gain some experience using CSS to alter the appearance of elements on the page. In addition, they will replicate jQuery functions with vanilla JavaScript which will help them to understand how both JavaScript and jQuery manipulate DOM elements.
@@ -39,5 +52,7 @@ Students will separate out hard-coded CSS and JS from a static page. Groups will
 * Review (10 minutes)
 * Each group will share a challenge they faced and their solution with the group
 * Instructor will ask groups for brief examples of good/bad practice, and offer up tips
+
+
 
 
