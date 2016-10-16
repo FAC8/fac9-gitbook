@@ -8,8 +8,9 @@ Monday:
 * 10.00 - 12.00 -- Introductions
 * 12.00 - 13.00 -- FAC's values
 * 13.00 - 14.00 -- COMMUNAL LUNCH TOGETHER! :)
-* 14.00 - 16.00 -- Semantic html (HTML5) (Noga + Heather)
-* 16.00 - 17.00 -- css workshop (Noga + Heather)
+* 14.00 - 14.30 -- pair programming - what is it, how to do it and why it great! 
+* 14.30 - 16.30 -- Semantic html (HTML5) (Noga + Heather)
+* 16.30 - 17.30 -- css workshop (Noga + Heather)
 * 17.00 - 18.00 -- Talk (Mark)
 
 Tuesday:
