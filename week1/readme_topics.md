@@ -22,6 +22,10 @@ Suggested formats: screencast, slideshow + quiz, readmes + quiz
 ## CSS
 * How to style boring HTML
 
+key concepts:
+  * display block and display inline. Which elements are display block by default? and which are display inline? Can we change that behavior?
+  * css box model (margin, padding, borders...)
+  * how we can make a grid to layout our website?
 ## Manipulating the DOM
 
 key concepts:
