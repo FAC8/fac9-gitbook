@@ -1,51 +1,32 @@
 # Research Day
 
-These topics are used for creating tutorials which other people in the cohort will complete.
-You will complete it in pairs with someone who is from a different team.
+We're going to be using our new git skills to work in groups of four to write READMEs. Each group needs to choose a topic, with each member of the group researching one of its four sub-topics. Create a markdown file in the README repo, and `pull` and `push` to keep it updated as you all work. Don't panic if you face a merge conflict - work together as a team to resolve it.
 
-### RESEARCH Topics
+Some of the sub-topics may take longer than others - if you finish earlier than the rest of your team, pair up with someone to help them finish.
 
-Splitting into groups: jigsaw!
-Suggested formats: screencast, slideshow + quiz, readmes + quiz
+## Using the Command Line
+* Write a tutorial on how to use the command line to find out which directory you're in, how to print its contents, and how to move to another directory.
+* What is Bash?
+* How can you customise your terminal?
+* What are the benefits of working with the command line rather than a GUI?
 
-## Git and Github
-* Define Git and Github
-* What is the difference? 
-
-## GitHub issues 
-* Describe how to get started with issues and features of issues (creating labels, milestones)
-* Stretch goal: Other GitHub features - go through how to make a wiki and/or GitHub shortcuts
-
-## GitHub flow 
-* Go through the journey from creating a repo on GitHub to merging in changes
+## Manipulating the DOM
+* Explain the phrase 'DOM manipulation is expensive'. How can we make it more efficient?
+* How can we use DOM element relationships to access elements?
+* What is a node in the DOM? What different types of node are there?
+* How can we use DOM manipulation to dynamically change the content and style of HTML elements?
 
 ## CSS
-* How to style boring HTML
+* What's the CSS box model?
+* Responsive vs mobile-first design
+* What are your options for creating a grid system? What are the pros and cons of each?
+* What's a CSS preprocessor? Why would you use one?
 
-key concepts:
-  * display block and display inline. Which elements are display block by default? and which are display inline? Can we change that behavior?
-  * css box model (margin, padding, borders...)
-  * how we can make a grid to layout our website?
-## Manipulating the DOM
-
-key concepts:
-
-* Selecting DOM elements:
-  * `document.querySelector`
-  * `document.querySelectorAll`
-  * `document.getElementById`
-  * `document.getElementsByClassName`
-  * ...
-* NodeElements atributes and methods:
-  * `className`
-  * `classList`
-  * ...
-
-## Using the command line (for cloning, staging, committing, pushing, etc)
-* How can someone use the command line to clone a repo, create a branch, stage, commit and push changes, and any other useful command line tricks
-
-## Creating a README with markdown basics
-* How does someone create a table, bold or italic text, etc using markdown on GitHub? Think of things that would be useful to have in a project README.
+## GitHub
+* What's the difference between git and GitHub?
+* What are labels and milestones, and why are they particularly useful in agile software development?
+* How can you document a project on GitHub? Why would you want to do this?
+* Write a tutorial on hosting a site using GitHub Pages
 
 
 
