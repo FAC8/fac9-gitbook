@@ -9,9 +9,10 @@ Good reads about "Divitis"
 
 - https://codepen.io/mi-lee/post/an-overview-of-html5-semantics
 
-###CSS naming conventions
+###CSS stuff
 
-- https://css-tricks.com/bem-101/
-
-- http://getbem.com/naming/
-- 
+- BEM naming convention:
+  - https://css-tricks.com/bem-101/
+  - http://getbem.com/naming/
+- SMACSS (Scalable and modular architecture for CSS)
+  - https://smacss.com/
