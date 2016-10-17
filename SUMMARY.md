@@ -32,7 +32,7 @@
    * [Research day](week2/readme_topics.md)
    * [Project](week2/project.md)
    * [Stop Go Continue](week2/stop_go_continue.md)
-   * Plan
+   * [Plan](week2/TDD-plan.md)
 * [Week3](week3/index.md)
    * [Learning outcomes](week3/learning-outcomes.md)
    * [Resources](week3/resources.md)
