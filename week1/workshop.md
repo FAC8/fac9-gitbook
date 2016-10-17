@@ -16,6 +16,6 @@ Good reads about "Divitis"
 - https://codepen.io/mi-lee/post/an-overview-of-html5-semantics
 
 
-## Tuesday: Git Flow and GitHub
+## Tuesday: Git Workflow and GitHub
 
-We'll
+Today, we'll be learning about using the git workflow to work efficiently as part of a team. 
