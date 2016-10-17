@@ -10,7 +10,7 @@ Monday:
 * 13.00 - 14.00 -- COMMUNAL LUNCH TOGETHER! :)
 * 14.00 - 14.30 -- pair programming - what is it, how to do it properly and why it great! 
 * 14.30 - 16.30 -- Semantic html (HTML5) (Noga + Heather)
-* 16.30 - 17.30 -- css BEM styling workshop (Noga + Heather)
+* 16.30 - 17.30 -- CSS BEM styling workshop (Noga + Heather)
 * 17.00 - 18.00 -- Talk (Mark)
 
 Tuesday:
