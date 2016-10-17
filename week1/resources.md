@@ -11,6 +11,8 @@ Good reads about "Divitis"
 
 - HTML5 Outliner (Chrome plugin) https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo
 
+- Tota11y (accessibility visualization toolkit) http://khan.github.io/tota11y/
+
 ###CSS stuff
 
 - BEM naming convention:
