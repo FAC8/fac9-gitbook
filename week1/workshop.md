@@ -18,4 +18,4 @@ Good reads about "Divitis"
 
 ## Tuesday: Git Workflow and GitHub
 
-Today, we'll be learning about using the git workflow to work efficiently as part of a team. 
+Heather will be doing a walkthrough on using the git workflow to work efficiently as part of a team. 
