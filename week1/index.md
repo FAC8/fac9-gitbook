@@ -14,9 +14,10 @@ Monday:
 * 17.00 - 18.00 -- Talk (Mark)
 
 Tuesday:
-* 10-11 -- [Morning Challenge](https://repl.it/C0n0/0) (flexbox froggy)
-* 11-13.00 -- Gitflow walkthrough (with Heather)
-* 14.00- 18:00 -- Research topics and presentation
+* 10:00 - 11:00 -- [Morning Challenge](https://repl.it/C0n0/0) (Flexbox Froggy)
+* 11:00 - 12:00 -- Gitflow walkthrough (with Heather)
+* 12.00 - 16:00 -- Research topics
+* 16:00 - 18:00 -- Review and Presentations
 
 Wednesday-Thursday
 * Project time! :)
