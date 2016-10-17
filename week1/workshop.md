@@ -8,7 +8,7 @@ You will have to re-edit an HTML document into semantic HTML using the some of t
 
 Good reads about "Divitis" 
 - video introduction to semantic web: https://www.youtube.com/watch?gl=GB&hl=en-GB&v=OGg8A2zfWKg
-- 
+
 - https://www.smashingmagazine.com/2013/01/the-importance-of-sections/#the-problem-with-div
 
 - https://codepen.io/mi-lee/post/an-overview-of-html5-semantics
