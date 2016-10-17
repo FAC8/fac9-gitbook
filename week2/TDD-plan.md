@@ -39,8 +39,6 @@
   * Examples of each
 
 
-Talk by eighth light on paired programming (probably not Jarkyn, so either it is us, or we need to get someone else in)
-
 ### Timetable
 Monday:
 
