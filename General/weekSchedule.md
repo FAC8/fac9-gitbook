@@ -1,4 +1,4 @@
-# General Week Schedule
+# General Week Schedule 📅
 
 
 #### Monday
@@ -16,7 +16,7 @@
 
 13:00 - 14:00 Lunch
 
-14:00 - 17:30  Readmes
+14:00 - 17:30  Readmes/research
 
 17:30 - 18:00 Project planning
 
