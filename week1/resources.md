@@ -9,6 +9,8 @@ Good reads about "Divitis"
 
 - https://codepen.io/mi-lee/post/an-overview-of-html5-semantics
 
+- HTML5 Outliner (Chrome plugin) https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo
+
 ###CSS stuff
 
 - BEM naming convention:
