@@ -1,16 +1,14 @@
 # General Week Schedule
 
-###NEEDS TO BE DISCUSSED
 
 #### Monday
 09:45 - 10:15 Show and Tell
 
-10:15 - 11:15 Morning challange
+10:15 - 11:15 Morning challenge
 
 11:15 - 13:00 Workshops
 
-14:00 - 18:00 Readmes/Tutorials
-
+14:00 - 18:00 Go through tutorials
 #### Tuesday
 10:00 - 11:00 Morning Challenge
 
@@ -18,9 +16,9 @@
 
 13:00 - 14:00 Lunch
 
-14:00 - 15:30 Go through tutorials
+14:00 - 17:30  Readmes
 
-15:30 - 18:00 Project planning
+17:30 - 18:00 Project planning
 
 #### Wednesday
 
