@@ -1,4 +1,4 @@
-13/06/2016
+
 ## Timetable
 
 ### Monday
