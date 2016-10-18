@@ -1,25 +1,54 @@
 13/06/2016
-## Preparation
-### TODO
+### Timetable
+
+## Monday
+
 * 10-11 Bes workshop: (approx: writing your own functions to test a piece of code) 
-* We will give them a bit of reading over the weekend (Resources?)
+* We will give them a bit of reading over the weekend (Resources--yup and so far there are only 2 short articles) 
 * Clear Introduction writing a test (first thing Monday), what it is and how to do it.
-* Qunit: Introduction plus Roman Numerals code-along (Monday)--Anneka
+* Qunit: basic introduction then send them off to do: vending maching tutorial (DWYL)
 * DWYL TDD tutorials-- afternoon workshop in groups (Monday)
-* Tuesday morning: ping pong pair programming
-* Tuesday afternoon: Read-Me Day, but we are doing video tutorials on testing done in pairs with ping pong pair programming
-* Wednesday: Mattia introduce Jasmine and legacy code TDD and possibly arrange speaker 
-* End of Wednesday: quick overview of how to do async testing give them stopwatch project
+* If they finish early on Monday: have them look at edx course on Jasmine (it is quite quick; they don't need to finish it--can keep looking at it Monday evening).  Also, can point them to the ReadMe questions they are not doing, but can say they are subjects for further exploration, all related to TDD and all good to gain some understanding of.
+
+## Tuesday
+
+* 10-11 Tuesday morning: Bes workshop
+* Tuesday morning: ping pong pair programming: We are introducing both Jasmine and ping pong pair programming.
+* Tuesday morning: Jasmine: Introduction plus Roman Numerals code-along (Monday)--Anneka.  First we start with basic code-along for a few numbers, then do a ping pong version for a few numbers, then send them off to finish it ping pong pair programming.
+* Tuesday afternoon: Read-Me Day, but we are doing video tutorials/screen casts on testing done in pairs with ping pong pair programming (they can do a section of their Roman Numerals kata).  Since screen casts are done in pairs; there will be 8.  Pair up with someone not in your group of 4.
+* Show screen casts to each other.
+* Tuesday 5:30 we may have a speaker: Halima from Codurance
+* If there is time: Actually do the ReadMes (or more on the edx course on Jasmine).
+
+## Wednesday:
+
+* 10-11 Wednesday morning: Bes workshop
+* Mattia to give quick overview of async testing and give them stopwatch project.
 * (Note: Jarkyn is coming in the following week to do async testing for API week)
-* 
-* TDD freestyle demo  Roman Numerals, and then have them do afternoon workshop using dwyl tutorial (change machine).  I think sticking with Quint and then introducing quickly the idea of Jasmine (ie, there are other testing frameworks--here it is, etc, look over the weekend at it for next week).  
-* research modules for readMe topic -- do video tutorials for ping pong.
+* For stopwatch project: The idea is to follow the TDD cycle to create a stop watch, using ping pong. Split into your groups of 4. Then pair up within that group (so there will be 8 stopwatches created).
+* Stretch goals: countdown timer, split timmer, any other functionality eg, translator. They can add as much functionality as they like! Be creative!
+
+## Thursday:
+* 10-11 Thursday morning: Bes workshop
+* Continue stopwatch projects!
+
+## Friday:
+* 10-11 Friday morning: Bes workshop
+* Code Review
+* Respond to Issues
+* Stop Go Continue: Would we like to move morning workshops to earlier in the morning, ie, 9:30 or 9:00?
+* Presentations
+
+
+* Optionals for the week: Mattia to introduce testing with legacy code and possibly arrange speaker 
+
 
 ### Learning Objectives:
 * What is TDD and how to implement
-* Synchronous vs asynchronous and how to test
 * How to process documentation
 * Set up and use Jasmine
+* Synchronous vs asynchronous and how to test
+
 
 ### README topics
 1. Jasmine
@@ -30,48 +59,15 @@
 2. What is TDD?
   * Create a TDD screen cast
   * TDD life cycle
-  * Create a TDD screen cast
   * Red Green Refactor (Why is this concept useful?)
-3. Continuous Integration (fourgroups)
-  * Explanation (Readme form)
-  * Set up Travis Screen cast
+3. Continuous Integration 
+  * Explanation 
 4. Unit and Integration Testing
   * What are the differences
   * What are the pros and cons
   * Examples of each
 
 
-### Timetable
-Monday:
-
-10-11.Workshop: Walk through setting up Jasmine environ, tests for morning challenge to be written
-
-11-13.Morning challenge: write the functions to pass the tests in an environment set up with Jasmine, see simpletests.html
-
-<-- Seem to remember some problems with above exercise despite being a good one - Tests were bad possibly? Needs to be rewritten/redone in Jasmine -->
-
-14-xx.Readmes/tutorials
-Tuesday:
-10-11:30 functional programming morning challenge, does not have to be related to testing. (MATT)
-11:30-13 Roman Numerals workshop, code along. use ping pong (RUTH, CONOR)
-14-18 Vending Machine, can you use ping pong ?. (RUTH, CONOR)
-time? add 8th light talk, on the broader importance of testing and paired programming, (dont use Numerals tutorials)
-Wednesday:
-10-11:30 write tests for our functions (qunit or jasmine), to show the value of TDD, still need to write. (NAAZ, RUTH) 11:30 introduce the stopwatch. The idea is to follow the TDD cycle to create a stop watch, using ping pong. (NAAZ, RUTH) Split into your groups of 4. Then pair up within that group.
-Both pairs write tests which fail.
-pass them onto the other pair which makes them pass.
-follow tutorial with this ping/pong format.
-great project with TDD ingrained into there brain!!!!
-stretch goals, countdown timer, split timmer, any other functionality eg, translator.
-Add as much functionality as you like! you can go your own way
-Thursday:
-Carry On!!!
-Normal Friday Structure
-Code Review
-Respond to Issues
-Stop Go Continue
-Presentations
-
 ### Resources
 * [DWYL TDD Tutorial](https://github.com/dwyl/learn-tdd)
-* 
+* simpletests.html
