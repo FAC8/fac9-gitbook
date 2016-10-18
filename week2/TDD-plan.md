@@ -8,7 +8,7 @@
 * Clear Introduction writing a test (first thing Monday), what it is and how to do it.
 * Qunit: basic introduction then send them off to do: vending maching tutorial (DWYL)
 * DWYL TDD tutorials-- afternoon workshop in groups (Monday)
-* If they finish early on Monday: have them look at Udacity course on Jasmine (it is quite quick; they don't need to finish it--can keep looking at it Monday evening).  Also, can point them to the ReadMe questions they are not doing, but can say they are subjects for further exploration, all related to TDD and all good to gain some understanding of.
+* If they finish early on Monday: have them look at Udacity course on Jasmine (it is quite quick; they don't need to finish it--can keep looking at it Monday evening).  Also, can point them to the README questions they are not doing, but can say they are subjects for further exploration, all related to TDD and all good to gain some understanding of.
 
 ### Tuesday
 
