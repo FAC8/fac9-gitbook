@@ -1,6 +1,8 @@
 13/06/2016
 ## Preparation
 ### TODO
+* 10-11 Bes workshop: (approx: writing your own functions to test a piece of code) 
+* We will give them a bit of reading over the weekend (Resources?)
 * Clear Introduction writing a test (first thing Monday), what it is and how to do it.
 * Qunit: Introduction plus Roman Numerals code-along (Monday)--Anneka
 * DWYL TDD tutorials-- afternoon workshop in groups (Monday)
