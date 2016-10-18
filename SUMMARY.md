@@ -24,7 +24,6 @@
    * [Research day](week1/readme_topics.md)
    * [Project](week1/project.md)
    * [Stop Go Continue](week1/stop_go_continue.md)
-   * Teams
 * [Week2](week2/index.md)
    * [Resources](week2/resources.md)
    * [Plan](week2/TDD-plan.md)
