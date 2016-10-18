@@ -1,4 +1,4 @@
-# Workshop
+# Monday Workshop
 
 ### Starter Questions:
 * Easy questions first: What is the Red-Green-Refactor cycle?
