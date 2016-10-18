@@ -13,7 +13,7 @@
 * DWYL TDD tutorials-- afternoon workshop in groups (Monday)
 * If they finish early on Monday: have them look at Udacity course on Jasmine (it is quite quick; they don't need to finish it--can keep looking at it Monday evening).
 
-### Tuesday
+### Tuesday 
 
 * 10-11 Tuesday morning: Bes workshop
 * Tuesday morning: We are introducing both Jasmine and going over ping pong pair programming.
