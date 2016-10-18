@@ -70,4 +70,6 @@
 
 ### Resources
 * [DWYL TDD Tutorial](https://github.com/dwyl/learn-tdd)
+* [Udacity JavaScript Testing using Jasmine](https://www.udacity.com/course/javascript-testing--ud549)
 * simpletests.html
+
