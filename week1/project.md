@@ -18,12 +18,13 @@ As a minimum requirement, your blog should have profiles of each of your group m
 
 * The ultimate aim is to take a very simple design concept from the drawing board to a web page as a team!
 
-###Suggestions for Tuesday's Design Session (45 Minutes)
+### Suggestions for Tuesday's Design Session (60 Minutes)
+* Choose a totally radical team name
 * Discuss what pages and features you want your website to have
 * Think about what you want your web page to look like - feel free to take inspiration from other sites you've seen!
 * If you have time, try drawing out wireframes of your page. It's okay to design parts of a page that won't function (e.g. menu buttons) as well as think about elements that might enhance your user's experience.  Try to think about how it might break or annoy a user.
 
-#####We're looking for answers to the following questions:
+##### We're looking for answers to the following questions:
 * What would your overall app do?
 * Who is your user?
 * How will you enhance the user experience?
