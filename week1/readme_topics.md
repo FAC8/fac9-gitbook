@@ -1,8 +1,34 @@
 # Research Day
 
-We're going to be using our new git skills to work in groups of four to write READMEs. Each group needs to choose a topic, with each member of the group researching one of its four sub-topics. Create a markdown file in the README repo, and `pull` and `push` to keep it updated as you all work. Don't panic if you face a merge conflict - work together as a team to resolve it.
+We're going to be using our new git skills to work in groups of four to write READMEs. Each group needs to choose a topic, with each member of the group researching one of its four sub-topics. Create a markdown file in the README repo, and `pull` and `push` to keep it updated as you all work. Don't panic if you face a merge conflict - work together as a team to resolve it. [Oh shit, git](http://ohshitgit.com/) will be of help. 
 
 Some of the sub-topics may take longer than others - if you finish earlier than the rest of your team, pair up with someone to help them finish. Don't forget that each team needs to write three 'lollipop questions' related to their topic!
+
+## Teams
+
+### Team 1
+* Lucy
+* Marko
+* Peter
+* Jen
+
+### Team 2
+* Marina
+* Steve
+* Will
+* Cleo
+
+### Team 3
+* Tom
+* Nora
+* Shireen
+* John
+
+### Team 4
+* Esraa
+* Emily
+* Ewelina
+* Nick
 
 ## Using the Command Line
 * Write a tutorial on how to use the command line to find out which directory you're in, how to print its contents, and how to move to another directory.

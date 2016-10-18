@@ -15,9 +15,10 @@ Monday:
 
 Tuesday:
 * 10:00 - 11:00 -- [Morning Challenge](https://repl.it/C0n0/0) (Flexbox Froggy)
-* 11:00 - 12:00 -- Gitflow walkthrough (with Heather)
-* 12.00 - 16:00 -- Research topics
-* 16:00 - 18:00 -- Review and Presentations
+* 11:00 - 12:00 -- Gitflow walkthrough (with Heather and Gabriel)
+* 12.00 - 15:30 -- Research topics
+* 15:30 - 17:00 -- Review and Presentations
+* 17:00 - 18:00 -- Project introduction
 
 Wednesday-Thursday
 * Project time! :)
