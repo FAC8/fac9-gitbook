@@ -1,4 +1,4 @@
-# Teams
+# Project Teams
 
 ## Team 1
 * Lucy
