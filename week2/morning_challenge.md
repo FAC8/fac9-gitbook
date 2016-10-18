@@ -1,4 +1,7 @@
-# Morning Challenge
+# Monday Morning Challenge
+
+After Bes workshop :)
+
 
 Introduction to TDD and Red-Green-Refactor cycle.
 
