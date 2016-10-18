@@ -1,7 +1,7 @@
 13/06/2016
-### Timetable
+## Timetable
 
-## Monday
+### Monday
 
 * 10-11 Bes workshop: (approx: writing your own functions to test a piece of code) 
 * We will give them a bit of reading over the weekend (Resources--yup and so far there are only 2 short articles) 
@@ -10,7 +10,7 @@
 * DWYL TDD tutorials-- afternoon workshop in groups (Monday)
 * If they finish early on Monday: have them look at edx course on Jasmine (it is quite quick; they don't need to finish it--can keep looking at it Monday evening).  Also, can point them to the ReadMe questions they are not doing, but can say they are subjects for further exploration, all related to TDD and all good to gain some understanding of.
 
-## Tuesday
+### Tuesday
 
 * 10-11 Tuesday morning: Bes workshop
 * Tuesday morning: ping pong pair programming: We are introducing both Jasmine and ping pong pair programming.
@@ -20,7 +20,7 @@
 * Tuesday 5:30 we may have a speaker: Halima from Codurance
 * If there is time: Actually do the ReadMes (or more on the edx course on Jasmine).
 
-## Wednesday:
+### Wednesday:
 
 * 10-11 Wednesday morning: Bes workshop
 * Mattia to give quick overview of async testing and give them stopwatch project.
@@ -28,11 +28,11 @@
 * For stopwatch project: The idea is to follow the TDD cycle to create a stop watch, using ping pong. Split into your groups of 4. Then pair up within that group (so there will be 8 stopwatches created).
 * Stretch goals: countdown timer, split timmer, any other functionality eg, translator. They can add as much functionality as they like! Be creative!
 
-## Thursday:
+### Thursday:
 * 10-11 Thursday morning: Bes workshop
 * Continue stopwatch projects!
 
-## Friday:
+### Friday:
 * 10-11 Friday morning: Bes workshop
 * Code Review
 * Respond to Issues
