@@ -6,19 +6,20 @@
 * 10-11 Bes workshop: (approx: writing your own functions to test a piece of code) 
 * We will give them a bit of reading over the weekend (Resources--yup and so far there are only 2 short articles) 
 * Clear Introduction writing a test (first thing Monday), what it is and how to do it.
-* Qunit: basic introduction then send them off to do: vending maching tutorial (DWYL)
+* Qunit: basic introduction and Jack workshop
+* Then introduce pair programming and send them off to do: vending maching tutorial (DWYL)
 * DWYL TDD tutorials-- afternoon workshop in groups (Monday)
-* If they finish early on Monday: have them look at Udacity course on Jasmine (it is quite quick; they don't need to finish it--can keep looking at it Monday evening).  Also, can point them to the README questions they are not doing, but can say they are subjects for further exploration, all related to TDD and all good to gain some understanding of.
+* If they finish early on Monday: have them look at Udacity course on Jasmine (it is quite quick; they don't need to finish it--can keep looking at it Monday evening).
 
 ### Tuesday
 
 * 10-11 Tuesday morning: Bes workshop
-* Tuesday morning: ping pong pair programming: We are introducing both Jasmine and ping pong pair programming.
+* Tuesday morning: We are introducing both Jasmine and going over ping pong pair programming.
 * Tuesday morning: Jasmine: Introduction plus Roman Numerals code-along (Monday)--Anneka.  First we start with basic code-along for a few numbers, then do a ping pong version for a few numbers, then send them off to finish it ping pong pair programming.
 * Tuesday afternoon: README Day, but we are doing video tutorials/screen casts on testing done in pairs with ping pong pair programming (they can do a section of their Roman Numerals kata).  Since screen casts are done in pairs; there will be 8.  Pair up with someone not in your group of 4.
 * Show screen casts to each other.
 * Tuesday 5:30 we may have a speaker: Halima from Codurance
-* If there is time: Actually do the READMEs (or more on the Udacity course on Jasmine).
+* If there is time: Do the READMEs, if have time can have them do full READMEs, else say they are subjects for further exploration, all related to TDD and all good to gain some understanding of.
 
 ### Wednesday:
 
