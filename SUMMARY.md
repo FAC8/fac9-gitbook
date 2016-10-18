@@ -28,7 +28,6 @@
 * [Week2](week2/index.md)
    * [Plan](week2/TDD-plan.md)
    * [Learning outcomes](week2/learning-outcomes.md)
-   * [Resources](week2/resources.md)
    * [Morning Challenge](week2/morning_challenge.md)
    * [Workshop](week2/workshop.md)
    * [Research day](week2/readme_topics.md)
