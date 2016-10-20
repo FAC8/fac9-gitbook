@@ -7,11 +7,11 @@ We could possibly explain what a server and a client are, the difference between
 
 Install node *(Sam you do this since you have installed it the most times now with your system resets lol)*
 
-[Learn NodeJS](https://github.com/nikhilaravi/learn-node) 
+[Learn NodeJS](https://github.com/nikhilaravi/learn-node)
 
 Go through the walk through with the class, making sure to draw special attention to small details we think my be overlooked. (For example -g for global installation might be worth a mention.)
 
-We could give examples of the running the code with node after each step to show that it is possible to run it in node without building a server. (For example after step 2 we could call one of the functions in atom and then run the code in node to show it logging something) 
+We could give examples of the running the code with node after each step to show that it is possible to run it in node without building a server. (For example after step 2 we could call one of the functions in atom and then run the code in node to show it logging something)
 
 Once step 4 is completed we should get them to go back into the index.html and change the H1 or the img tag. That way they can have a clear picture of what is going on and we can then explain anything if it is still not too clear.
 
@@ -21,11 +21,11 @@ Section 6 is pretty straight forward. We should get them to add a background col
 
 The walkthrough touches on the package.json but I think that we could give a little more info about it. For example explain how the scripts work. (I hope you will explain about the package as well Sam lol)
 
-(HOPE THIS ALL MAKES SENSE) 
+(HOPE THIS ALL MAKES SENSE)
 
 [Node TDD](https://github.com/nofootnotes/learn-node-tdd)
 
-I think we can write our own TDD README for when the time comes. I don't know how in depth we should make it as I'm not sure what the exact structure of the week will be and I'm unsure if we have time to do it. No matter what the plan is though, I think that we need to build on this one. 
+I think we can write our own TDD README for when the time comes. I don't know how in depth we should make it as I'm not sure what the exact structure of the week will be and I'm unsure if we have time to do it. No matter what the plan is though, I think that we need to build on this one.
 
 I haven't been able to find a good intro video into testing. I have seen a couple of ok-ish ones but I think that we could probably put together a better code along ourselves. (We could just do a code along for the TDD side of node if you are guys are up for it)
 
