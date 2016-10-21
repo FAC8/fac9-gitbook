@@ -9,7 +9,7 @@
 * Clear Introduction writing a test (first thing Monday), what it is and how to do it. Red Green Refactor. Kara and Gabriel.
 * Qunit: basic introduction and Jack workshop. Kara to run workshop (which will be done individually).  Kara and Gabriel to do basic introduction.
 * Gabriel to do Fizz Buzz kata workshop and introducing ping pong pair programming.
-* Then introduce pair programming and send them off to do: DWYL vending maching tutorial in afternoon. 
+* Then introduce pair programming and send them off to do: DWYL vending maching tutorial in afternoon. Kara and Gabriel.
 * If they finish early on Monday: have them look at Udacity course on Jasmine (it is quite quick; they don't need to finish it--can keep looking at it Monday evening).  Or README topics.
 
 ### Tuesday 
