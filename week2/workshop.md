@@ -1,5 +1,7 @@
 # Monday Workshop
 
+
+
 ### Starter Questions:
 * Easy questions first: What is the Red-Green-Refactor cycle?
 * What is ping pong pair programming?
