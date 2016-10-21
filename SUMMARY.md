@@ -12,6 +12,7 @@
    * [FAC8 Responsibilities](General/responsibilities.md)
    * [Developing Your Online Presence](General/you.md)
    * [Tips for teaching code](General/tips_for_mentors.md)
+   * [Code Reviewing](General/code-reviews.md)
 * [PreCourse](PreCourse/index.md)
    * [Resources List](PreCourse/learning_outcomes.md)
    * [Exercises](PreCourse/pre-course_materials.md)
