@@ -1,6 +1,6 @@
 # Monday Workshop
 
-
+[DWYL TDD Tutorial](https://github.com/dwyl/learn-tdd)
 
 ### Starter Questions:
 * Easy questions first: What is the Red-Green-Refactor cycle?
@@ -8,8 +8,7 @@
 
 ## Vending Machine Change Calculator
 * 3 hour Workshop
-* We will start with a ping pong code-along
-* Then cohort pairs off and finishes building the vending machine
+* Cohort pairs off and builds the vending machine
 
 ### Emphasis is on Red-Green-Refactor cycle and ping pong pair programming work flow.
 
