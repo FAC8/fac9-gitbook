@@ -6,19 +6,19 @@
 
 * 10-11 Bes workshop: (approx: writing your own functions to test a piece of code) 
 * There is a bit of reading over the weekend (See Resources) 
-* Kara and Gabriel. Clear Introduction writing a test (first thing Monday), what it is and how to do it. Red Green Refactor.
-* Qunit: basic introduction; Kara and Gabriel to do basic introduction.
+* Kara and Gabriel: Clear Introduction writing a test (first thing Monday), what it is and how to do it. Red Green Refactor.
+* Kara and Gabriel to do basic introduction to Qunit.
 * Intro (Jack) workshop. Kara to run workshop (which will be done individually). 
 * Gabriel to do Fizz Buzz kata workshop.
 * Lunch
-* Kara and Gabriel. Introduce ping pong pair programming, then DWYL vending maching tutorial in the afternoon.
+* Kara and Gabriel: Introduce ping pong pair programming, then DWYL vending maching tutorial in the afternoon.
 * If they finish early on Monday: have them look at Udacity course on Jasmine (it is quite quick; they don't need to finish it--can keep looking at it Monday evening).  Or README topics.
 
 ### Tuesday 
 
-* 10-11 Tuesday morning: Bes workshop
+* 10-11 Bes workshop
 * Tuesday morning: We are both introducing Jasmine and going over ping pong pair programming.
-* Tuesday morning: Jasmine: Introduction plus Roman Numerals code-along (Monday)--Kara and Mattia.  First we start with basic code-along for a few numbers, then send them off to finish it with ping pong pair programming.
+* Kara and Mattia: Jasmine: Introduction plus Roman Numerals code-along.  First we start with basic code-along for a few numbers, then send them off to finish it with ping pong pair programming.
 * Lunch
 * Mattia to introduce screen casts and the afternoon project: it's README Day, but we are doing video tutorials/screen casts on testing done in pairs with ping pong pair programming (they can do a section of their Roman Numerals kata).  Since screen casts are done in pairs; there will be 8.  Pair up with someone not in your group of 4. 
 * Show screen casts to each other.
