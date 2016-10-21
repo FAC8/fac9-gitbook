@@ -26,18 +26,18 @@
 
 ### Wednesday:
 
-* 10-11 Wednesday morning: Bes workshop
+* 10-11 Bes workshop
 * Mattia to give quick overview of async testing and give them stopwatch project.
 * (Note: Jarkyn is coming in the following week to do async testing for API week)
 * For stopwatch project: The idea is to follow the TDD cycle to create a stop watch, using ping pong. Split into your groups of 4. Then pair up within that group (so there will be 8 stopwatches created).
 * Stretch goals: countdown timer, split timmer, any other functionality eg, translator. They can add as much functionality as they like! Be creative!
 
 ### Thursday:
-* 10-11 Thursday morning: Bes workshop
+* 10-11 Bes workshop
 * Continue stopwatch projects!
 
 ### Friday:
-* 10-11 Friday morning: Bes workshop
+* 10-11 Bes workshop
 * Code Review
 * Respond to Issues
 * Stop Go Continue: Would we like to move morning workshops to earlier in the morning, ie, 9:30 or 9:00?
