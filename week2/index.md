@@ -4,7 +4,7 @@
 
 ### Monday
 
-* 10-11 Bes workshop: (approx: writing your own functions to test a piece of code) 
+* 10-11 Bes workshop (approx: writing your own functions to test a piece of code) 
 * There is a bit of reading over the weekend (See Resources) 
 * Kara and Gabriel: Clear Introduction writing a test (first thing Monday), what it is and how to do it. Red Green Refactor.
 * Kara and Gabriel to do basic introduction to Qunit.
