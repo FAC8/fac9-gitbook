@@ -50,3 +50,4 @@
 
 ### Resources
 * [Udacity JavaScript Testing using Jasmine](https://www.udacity.com/course/javascript-testing--ud549)
+* [QUnit](https://qunitjs.com/intro/)
