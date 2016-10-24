@@ -7,7 +7,7 @@
 * What is ping pong pair programming?
 
 ## Vending Machine Change Calculator
-* 3 hour Workshop
+* 2 hour Workshop
 * Cohort pairs off and builds the vending machine
 
 ### Emphasis is on Red-Green-Refactor cycle and ping pong pair programming work flow.
