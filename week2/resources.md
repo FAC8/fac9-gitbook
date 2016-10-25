@@ -6,3 +6,4 @@
 * [Test-driven development](https://en.wikipedia.org/wiki/Test-driven_development)
 * [Udacity JavaScript Testing using Jasmine](https://www.udacity.com/course/javascript-testing--ud549)
 * [Romanizer Kata tutorial](https://github.com/indykid/romanizer_js) -- clone repo 
+* [Kata Coding Dojo Wiki](http://codingdojo.org/cgi-bin/index.pl?KataCatalogue)
