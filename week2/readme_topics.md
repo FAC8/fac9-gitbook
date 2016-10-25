@@ -1,5 +1,9 @@
 # Research day
 
+##Morning
+
+[Romanizer kata](https://github.com/indykid/romanizer_js)
+ 
 # TDD Screen Cast Brief
 
 * Should be created in pairs.
