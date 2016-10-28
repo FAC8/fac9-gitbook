@@ -14,17 +14,16 @@ No PROMISES and no Jquery allowed!!!
 
 ## Schedule
 Monday: 
-* Monrning challange 
-* 11.00 - 13.00 -- Workshop - XHR Walkthrough 
-* 14.00 - 17.00 -- READMEs/Tutorials and presentations
-* 17.00 - 18.00 -- Talk ??? (last time was  Campbell Morgan (SiteChef) )
+* 10.00-11.30 Monrning challange 
+* 11.30 - 13.00 -- Workshop - XHR Walkthrough (with sofia)
+* 14.00-16.00 -- Reputation builder (with Elias)
+
 
 Tuesday:
-* 10-11 -- [Morning Challenge](https://repl.it/C0n0/0) (async callbacks?)
-* 11-1 -- [Reputation Builder](https://github.com/tormod17/Reputation-Builder) (with Sofia)
-* 2-3 -- Postman walkthrough and TFL API (with Owen)
-* 3-16:30 onwards -- projects: research API's you would like to use on the projects
-* 16:30-18:00 worksho by Jarkyn from 8th light
+* 10-11 -- [Morning Challenge](https://repl.it/C0n0/0) 
+*
+* 13-16:30 onwards -- projects: research API's you would like to use on the projects
+* 16:30 -- presentations
 
 Wednesday-Thursday
 * Projects
