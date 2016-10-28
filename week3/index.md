@@ -21,9 +21,9 @@ Monday:
 
 Tuesday:
 * 10-11 -- [Morning Challenge](https://repl.it/C0n0/0) 
-*
-* 13-16:30 onwards -- projects: research API's you would like to use on the projects
-* 16:30 -- presentations
+* 11.00 - 15:30 -- Research topics
+* 15:30 - 17:00 -- Review and Presentations
+* 17:00 - 18:00 -- Project introductions
 
 Wednesday-Thursday
 * Projects
