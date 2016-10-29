@@ -1,4 +1,4 @@
-# Week3
+# Week3 ✨
 
 __"An asynchronous operation.__
 
@@ -31,6 +31,7 @@ Wednesday-Thursday
 
 Friday
 * 10-11 -- Code review
-* 11-3 -- Respond to issues
+* 11-13 -- Respond to issues
+* 2-3 -- Stop - Go - Continue
 * 3-5 -- Presentations
-* 5-6 -- upstairs projects
+* 5-6 -- Natalia (FAC alumna) and +1
