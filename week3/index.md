@@ -6,7 +6,7 @@ __Who’s there?__
 
 __Knock knock."__
 
-This week you will be introduced to async XHR requests and API!!
+This week you will be introduced to XHR requests and API!!
 Hopefully you have looked at some of the pre-course materials on API's and we will be going into it more in depth through lots of great walkthroughs, workshops and an exciting project!
 
 ##Important note!
@@ -17,13 +17,14 @@ Monday:
 * 10.00-11.30 Morning challenge.
 * 11.30 - 13.00 -- Workshop - XHR Walk through (with Sofia)
 * 14.00-16.00 -- Reputation builder (with Elias)
-
+* 4:30 onwards -- Whiteboard questions with Elias
 
 Tuesday:
-* 10-11 -- [Morning Challenge](https://repl.it/C0n0/0) 
-* 11.00 - 15:30 -- Research topics
-* 15:30 - 17:00 -- Review and Presentations
-* 17:00 - 18:00 -- Project introductions
+* 10-11 -- [Morning Challenge](https://repl.it/C0n0/0) (Owen) 
+* 11-12 -- Postman walktrough (Owen)
+* 12.00 - 16:00 -- Research topics
+* 16:00 - 17:30 -- Review and Presentations
+* 17:30 - 18:00 -- Project introduction
 
 Wednesday-Thursday
 * Projects
