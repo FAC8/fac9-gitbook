@@ -15,7 +15,7 @@ No PROMISES and no Jquery allowed!!!
 ## Schedule
 Monday: 
 * 10.00-11.30 Morning challenge.
-* 11.30 - 13.00 -- Workshop - XHR Walk through (with Sofia)
+* 11.30 - 13.00 -- Workshop - XHR Walkthrough (with Sofia)
 * 14.00-16.00 -- Reputation builder (with Elias)
 * 4:30 onwards -- Whiteboard questions with Elias
 
