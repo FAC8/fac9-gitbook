@@ -10,12 +10,12 @@ This week you will be introduced to XHR requests and API!!
 Hopefully you have looked at some of the pre-course materials on API's and we will be going into it more in depth through lots of great walkthroughs, workshops and an exciting project!
 
 ##Important note!
-No PROMISES and no Jquery allowed!!!
+No PROMISES and no Jquery allowed!
 
 ## Schedule
 Monday: 
 * 10.00-11.30 Morning challenge.
-* 11.30 - 13.00 -- Workshop - XHR Walkthrough (with Sofia)
+* 11.30 - 13.00 -- Workshop - XHR walktrough (with Sofia)
 * 14.00-16.00 -- Reputation builder (with Elias)
 * 4:30 onwards -- Whiteboard questions with Elias
 
