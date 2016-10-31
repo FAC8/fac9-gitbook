@@ -7,3 +7,5 @@
 * [HTTP: The Protocol Every Web Developer Must Know](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 * [Codeacademy API course](https://www.codecademy.com/learn/ibm-watson)
 * [cool API list](https://market.mashape.com/explore) you could use for the project
+* [Mozilla dev network XHR request guide](https://developer.mozilla.org/en/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest
+* 
