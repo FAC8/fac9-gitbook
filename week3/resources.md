@@ -8,4 +8,3 @@
 * [Codeacademy API course](https://www.codecademy.com/learn/ibm-watson)
 * [cool API list](https://market.mashape.com/explore) you could use for the project
 * [Mozilla dev network XHR request guide](https://developer.mozilla.org/en/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest
-* 
