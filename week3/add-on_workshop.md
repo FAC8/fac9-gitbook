@@ -87,3 +87,11 @@ There is a list of example tests you can try out on the RHS of the Tests section
 Making a POST request:
  - POST requests require you to put data in the body of your request. You can't do this via the browser. Postman gives you an environment for making POST requests and the option to add Authorisation information.
 - With Web APIs you need to get authentication and authorisation in order to make a POST request. These are topics that will be covered in a later week so don't worry about POST requests for now.
+
+## More stuff
+Using Postman, find the following information from the GoT API (https://anapioficeandfire.com/Documentation)
+- When was Margaery Tyrell born?
+- How many female characters of the Rivermen culture feature in the books?
+
+Pick a couple of APIs from the following list, read the documentation, and see what information you can retrieve: 
+https://github.com/toddmotto/public-apis
