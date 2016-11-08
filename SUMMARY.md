@@ -52,7 +52,7 @@
    * [Research day](week4/readme_topics.md)
    * [Project](week4/projects.md)
    * [Stop Go Continue](week4/stop_go_continue.md)
-   * [Teams](week4/teams.md)
+   * [Project Teams](week4/teams.md)
 * [Week5](week7/index.md)
    * [Learning Outcomes](week7/learning_outcomes.md)
    * [Resources](week7/resources.md)
