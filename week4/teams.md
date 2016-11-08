@@ -1,6 +1,7 @@
 # The new teams are... - drum roll -
 
 ## Team 1
+
 * Lucy
 * Steve
 * Will
