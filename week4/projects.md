@@ -8,5 +8,11 @@ You will need a large```.txt``` file to search through for your auto-completing,
 
 #### Don't forget
 *  We expect to see testing on both the front-end and back-end (using tape)
-*  >80% coverage (i.e. at least 80% of your code should be tested.
-* A full suite of repo badges in your Readme
+*  Aim to have as much code coverage as possible (i.e. as much of your code tested as possible.)
+
+#### Stretch goals
+
+Not mandatory: if you find the time 
+
+* module.exports -- on Monday afternoon we discussed how to take a single large server file and break it down into smaller modules. Consider what would be a good folder structure for your app.
+* host the project on heroku -- when you do this make sure 
