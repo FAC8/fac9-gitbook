@@ -4,9 +4,9 @@ A great (search) word finder (user experience) always starts with autocomplete
 
 Your task is to build a site which will update as you type similar to [this](https://github.com/dwyl/autocomplete)
 
-You will need a large```.txt``` file to search through for your auto-completing, there's loads on google if you look hard enough
+You will need a large```.txt``` file to search through for your auto-completing, there's loads on google if you look hard enough.
 
 #### Don't forget
-*  We expect to see testing on both the front-end and back-end
-*  >80% coverage
+*  We expect to see testing on both the front-end and back-end (using tape)
+*  >80% coverage (i.e. at least 80% of your code should be tested.
 * A full suite of repo badges in your Readme
