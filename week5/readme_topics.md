@@ -3,10 +3,10 @@
 ## Research Topics
 
 Splitting into groups: jigsaw!
-Suggested formats: screencast, slideshow + quiz, readmes + quiz
+Suggested formats: demonstration + small readmes + quiz
 
 ### Session management and browser storage
-(We we will only be using cookies this week but there are many ways that the browser stores data that are worth knowing about)
+(We will only be using cookies this week but there are many ways that the browser stores data that are worth knowing about)
 
 + What are Web SQL and Indexed DB?
 + What are local storage and session storage?
@@ -14,12 +14,15 @@ Suggested formats: screencast, slideshow + quiz, readmes + quiz
 + What is a cookie?
 + What are some of the different ways Hapi implements session management?
 
+The hapi.js [cookies](http://hapijs.com/tutorials/cookies?lang=en_US) and [caching](http://hapijs.com/tutorials/caching?lang=en_US) tutorials may be of use to you.
+
 ### Authentication
-(we'll be covering this topic in much more depth later but for now just an introduction to it!)
+(We'll be covering this topic in much more depth later but for now just an introduction to it!)
 
 + What is authentication and why do we need it when building web applications?
 + What are authentication schemes and strategies?
-+ What are some of the different ways Hapi implements authentication?
++ What are some of the different ways Hapi implements authentication? 
++ Build a small project which demonstrates authentication using Hapi.
 
 ### Validation
 
