@@ -24,12 +24,16 @@ The hapi.js [cookies](http://hapijs.com/tutorials/cookies?lang=en_US) and [cachi
 + What are some of the different ways Hapi implements authentication? 
 + Build a small project which demonstrates authentication using Hapi.
 
+The hapi.js [authentication](http://hapijs.com/tutorials/auth?lang=en_US) tutorial may be of use to you.
+
 ### Validation
 
 + What is validation and why is it important (absolutely critical)?
 + What is Joi and how would you use it with Hapi?
-+ Find some example situations where you'd use Joi
-+ Set up some validation schemas for these examples
++ Create a small project demonstrating some example situations where you'd use Joi.
++ Set up some validation schemas for these examples.
+
+The hapi.js [validation](http://hapijs.com/tutorials/validation?lang=en_US) tutorial may be of use to you.
 
 ### Templating
 
@@ -38,3 +42,5 @@ The hapi.js [cookies](http://hapijs.com/tutorials/cookies?lang=en_US) and [cachi
 + Write some examples of how you'd use Handlebars
 + What are the advantages of using server side rendering vs rendering dynamic content on the client?
 + How would you use Hapi's `views` interface to serve dynamic content?
+
+The hapi.js [views](http://hapijs.com/tutorials/views?lang=en_US) tutorial may be of use to you.
