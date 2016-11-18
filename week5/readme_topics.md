@@ -1,4 +1,4 @@
-#Reseach day
+#Research day
 
 ## Research Topics
 
