@@ -2,11 +2,11 @@
 
 ### STOP
 - Readme presentations being so long + in depth (TeachME day!)
-- Testing core functionality (don't test the obvious)
+- Stop testing core functionality (don't test the obvious like HTTP module)
 - Having no microwave
-- lollipopping individuals
+- lollipopping individuals (puts people on the spot)
 - putting knives on drying rack
-- carefully targeted speakers
+- carefully targeted speakers (Make sure speaker is aware of the level of knowledge of the group)
 
 ###GO
 
@@ -19,11 +19,11 @@
  
  
 ###CONT
-- step by step workshops like nodegirls
+- step by step workshops like Nodegirls
 - explaining new things like you've never heard of them before
 - well thought of projects
 - node shell workshop!
 - Adjusting timings based on our needs without sacrificing the content of the week
 - resources few enough to feel manageable
-- present on monday
+- present on Monday
 - Make event loop video mandatory
