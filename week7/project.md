@@ -9,10 +9,13 @@ What you choose to build with this data and how you choose to display it is up t
 * In the planning phases, have a think about user stories. Who are you building this for? What problem are you trying to solve? You might find the notes on Nelson's talk in your [notes](https://github.com/FAC9/notes/tree/master/week5/nelson-workshop) repo useful.
 * Try to build this tdd as far as you are able to using the techniques and `server.inject` method that Francesco showed you.
 * Aim for as high test-coverage as possible, on front-end and back-end.
+* Host the projecto on heroku.
 * Try to use basic ES6 syntax in this project:
 1. `const` for all variables whose values will never be re-assigned.
 2. `let` for all variables whose values will be re-assigned.
 3. `(arg1, arg2) => {}` arrow functions whenever you use callbacks.
 4. `template ${literals}` whenever you use strings that require concatenation: i.e. 'string 1 ' + 'string 2'.
 
-On Friday, we discussed some of the core features of hapi
+The aim of this project is to integrate the knowledge you've been acquiring over the last few weeks not to stretch you too far. If you had the option I'd rather you integrated past knowledge like modularisation, continuous integration, and hosting, than go into hapi's validation, authentication, and session management capabilities.
+
+Please bare in mind these latter topics become especially relevant once you have a database and were introduced on readme day to give you basic familiarity before going into next week, and to get familiar with hapi's capabilities and documentation.
