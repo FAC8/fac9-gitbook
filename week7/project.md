@@ -10,11 +10,12 @@ What you choose to build with this data and how you choose to display it is up t
 * Try to build this tdd as far as you are able to using the techniques and `server.inject` method that Francesco showed you.
 * Aim for as high test-coverage as possible, on front-end and back-end.
 * Host the project on heroku.
-* Try to use basic ES6 syntax in this project:
-1. `const` for all variables whose values will never be re-assigned.
-2. `let` for all variables whose values will be re-assigned.
-3. `(arg1, arg2) => {}` arrow functions whenever you use callbacks.
-4. `template ${literals}` whenever you use strings that require concatenation: i.e. 'string 1 ' + 'string 2'.
+
+Try to use basic ES6 syntax in this project:
+* `const` for all variables whose values will never be re-assigned.
+* `let` for all variables whose values will be re-assigned.
+* `(arg1, arg2) => {}` arrow functions whenever you use callbacks.
+* `template ${literals}` whenever you use strings that require concatenation: i.e. 'string 1 ' + 'string 2'.
 
 The aim of this project is to integrate the knowledge you've been acquiring over the last few weeks not to stretch you too far. I'd rather you integrated past knowledge like modularisation, continuous integration, and hosting, than go into hapi's validation, authentication, and session management capabilities.
 
