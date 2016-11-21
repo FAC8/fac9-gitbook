@@ -8,9 +8,11 @@ What you choose to build with this data and how you choose to display it is up t
 
 * In the planning phases, have a think about user stories. Who are you building this for? What problem are you trying to solve? You might find the notes on Nelson's talk in your [notes](https://github.com/FAC9/notes/tree/master/week5/nelson-workshop) repo useful.
 * Try to build this tdd as far as you are able to using the techniques and `server.inject` method that Francesco showed you.
-* Aim for as high test-coverage as possible.
+* Aim for as high test-coverage as possible, on front-end and back-end.
 * Try to use basic ES6 syntax in this project:
 1. `const` for all variables whose values will never be re-assigned.
 2. `let` for all variables whose values will be re-assigned.
-3. `(arg1, arg2) => {}` arrow functions whenever you need callbacks.
+3. `(arg1, arg2) => {}` arrow functions whenever you use callbacks.
 4. `template ${literals}` whenever you use strings that require concatenation: i.e. 'string 1 ' + 'string 2'.
+
+On Friday, we discussed some of the core features of hapi
