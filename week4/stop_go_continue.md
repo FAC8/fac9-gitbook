@@ -1,7 +1,7 @@
 # Stop Go Continue
 
 ### STOP
-- Readme presentations being so long + in depth (TeachME day!)
+- Readme presentations being so long + in depth (TeachME day! No dumping random resources to readme, think about it as a teaching session)
 - Stop testing core functionality (don't test the obvious like HTTP module)
 - Having no microwave
 - lollipopping individuals (puts people on the spot)
