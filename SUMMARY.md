@@ -60,7 +60,7 @@
    * [Workshop](week5/workshop.md)
    * [Research day](week5/readme_topics.md)
    * [Project](week5/projects.md)
-   * [Stop Go Continue](week7/stop_go_continue.md)
+   * [Stop Go Continue](week5/stop_go_continue.md)
 * [Week7](week6/index.md)
    * [Learning Outcomes](week6/learning-outcomes.md)
    * [Resources](week6/resources.md)
