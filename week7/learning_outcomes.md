@@ -1,6 +1,6 @@
 # Learning Outcomes
 
-The learning outcomes for this week are a slightly more broad than the previous weeks. You'll be learning the basics of Hapi, but you'll also be bringing lots of technologies that you've learnt together with a goal to structure your project in a more modular fashion.
+This week, you'll be learning the basics of the node framework Hapi:
 
 ### Core Learning Outcomes
 
@@ -14,7 +14,6 @@ The learning outcomes for this week are a slightly more broad than the previous 
 + Validate a user's input using the `Joi` plugin
 + Set up a basic user login with the `Hapi Auth Basic` plugin
 + Test all of these using `tape` (Hapi has `shot` built in so it's super nice to test!)
-+ Set up `SASS` to modularise your css using `@import`
 
 If you can do all of these, congratulations!!
 
@@ -22,7 +21,5 @@ If you can do all of these, congratulations!!
 
 + Understand and use Handlebars partials, layouts and helpers
 + Organise a 'feature' of your app into a Hapi plugin
-+ Understand and use SASS variables, mixins and nesting
-+ Use SASS control directives (like `@for`, `@if` and `@each`) to set up a group of css selectors
 
 
