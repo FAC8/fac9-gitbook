@@ -13,29 +13,3 @@ We will be covering the following Hapi plugins:
 * Authentication and session management with [hapi-auth-cookie](https://www.npmjs.com/package/hapi-auth-cookie)
 * User input validation with [joi](https://www.npmjs.com/package/joi)
 * Views and template rendering with [vision](https://www.npmjs.com/package/vision) and [handlebars](https://www.npmjs.com/package/handlebars)
-
-### Monday Morning
-
-+ Workshop on getting started with Hapi
-
-### Monday Afternoon
-
-+ README topics
-
-### Tuesday Morning
-
-+ Morning challenge
-
-### Tuesday Afternoon
-
-+ Start project
-
-### Wednesday & Thursday
-
-+ Work on project
-
-### Friday
-
-+ Morning code review
-+ Stop Go Continue
-+ Present Project
