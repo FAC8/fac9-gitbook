@@ -1,18 +1,6 @@
 # Workshops
 
-### SASS workshop (@msmichellegar)
+  ## Hapi workshop
 
-The wonderful Michelle (FAC5) will be doing a workshop on SASS (a CSS pre processor).
-
-### Regex workshop (@otunermajor)
-
-Sublime Owen (FAC7) will be doing a workshop on regular expressions.
-
-# Morning Challenge (tuesday)
-
-### Learn Handlebars
-
-Get stuck in with using Handlebars, see if you can make the tests pass
-
-https://github.com/Jbarget/handlebars-morning-challenge
+A code-along following through hapi's [getting started](http://hapijs.com/tutorials/getting-started?lang=en_US) and [routing](http://hapijs.com/tutorials/routing?lang=en_US) tutorials.
 
