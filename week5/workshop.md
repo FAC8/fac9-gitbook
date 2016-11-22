@@ -1,7 +1,5 @@
-# Morning Challenge (tuesday)
+# Workshops
 
-### Learn Handlebars
+  ## Hapi workshop
 
-Get stuck in with using Handlebars, see if you can make the tests pass
-
-https://github.com/Jbarget/handlebars-morning-challenge
+A code-along following through hapi's [getting started](http://hapijs.com/tutorials/getting-started?lang=en_US) and [routing](http://hapijs.com/tutorials/routing?lang=en_US) tutorials.
