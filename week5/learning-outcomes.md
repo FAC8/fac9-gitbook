@@ -1,6 +1,6 @@
 # Learning Outcomes
 
-This is going to be a hard week with a lot of new concepts introduced at the same time.
+This week, you'll be learning the basics of the node framework Hapi:
 
 ### Core Learning Outcomes
 
@@ -12,8 +12,12 @@ This is going to be a hard week with a lot of new concepts introduced at the sam
 + Serve static files (like css or js files) using the `Inert` plugin
 + Serve html templates using `Handlebars` and Hapi's `Vision` plugin
 + Validate a user's input using the `Joi` plugin
-+ Manage a user's authentication and session with 'hapi-auth-cookie' plugin
 + Set up a basic user login with the `Hapi Auth Basic` plugin
 + Test all of these using `tape` (Hapi has `shot` built in so it's super nice to test!)
 
 If you can do all of these, congratulations!!
+
+### Bonus Learning Outcomes
+
++ Understand and use Handlebars partials, layouts and helpers
++ Organise a 'feature' of your app into a Hapi plugin
