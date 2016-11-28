@@ -25,10 +25,4 @@
 
 Projects. THE WHOLE WEEK.
 
-We are not telling what to do, only which technologies to use, so get thinking of a cool idea!
-
-Whatever you do, it must have a way to authenticate users and manage sessions, and it must make use of SQL JOIN queries.
-
-There will be time to do a workshop during the week on whatever subject is causing most difficulty.
-
 Projects due for code review by Friday lunchtime as usual.
