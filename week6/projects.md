@@ -11,6 +11,8 @@ You have the following options. Whatever you choose you must make use of JOIN qu
   - I can click on a listed review to read it.
   - (optional extra) I can see a list of reviews by a particular user.
   
+ Focus on getting this functionality rather than making the frontend look good. Build your endpoints first.
+  
 2. Less prescriptive: a review site for any kind of media. Same user stories.
  
 3. Least prescriptive: anything!
