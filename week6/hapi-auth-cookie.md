@@ -109,6 +109,7 @@ What about the `options` we passed to `strategy`? Here's an example:
 options = {
     password: 'm!*"2/),p4:xDs%KEgVr7;e#85Ah^WYC',
     cookie: 'cookie-name',
+    isSecure: false,
     ttl: 24 * 60 * 60 * 1000
   })
 ```
@@ -116,6 +117,7 @@ options = {
 Notes:
  - Password should be at least 32 chars. The plugin will encrypt and decrypt your cookie using it.
  - Cookie name can be anything.
+ - isSecure, if `true`, will prevent the cookie being sent on insecure connections. Hapi seems to consider localhost as insecure, so set it to `false` for development and `true` for production (assuming you are hosting on https).
  - ttl sets when the session will automatically expire in milliseconds after creation.
 
 There are lots more options you can set. Check the docs for the plugin.
