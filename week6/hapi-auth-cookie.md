@@ -136,7 +136,7 @@ You have the option of passing a `mode` argument to `strategy` in this position:
 server.auth.strategy(name, scheme, [mode], [options])
 ```
 
-If you pass `true`, all routes will automatically be protected by the strategy. If you pass `try`, all routes will be protected, but with their `config.auth.mode` property set to try (see *Add auth to your routes* above).
+If you pass `true` or `'required'`, all routes will automatically be protected by the strategy. If you pass `'try'`, all routes will be protected, but with their `config.auth.mode` property set to try (see *Add auth to your routes* above).
 
 ## Gotcha!
 
