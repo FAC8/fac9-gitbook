@@ -24,11 +24,17 @@ A strategy is a configured instance of a *scheme*.
 
 ###### OK so what's a scheme?
 
-It's a type of authentication that you define. You might use different schemes to authenticate administrators and users, for example. In this case we are creating a scheme called 'base' - we do not need multiple schemes. We could use any name for our scheme, but we will need to use the name we choose to refer to our scheme later.
+It's the type, i.e. the *manner*, of authentication. Hapi-auth-cookie creates a scheme called 'cookie', which we reference when creating our strategy (the second argument of `strategy`). You have also seen a scheme called 'basic', which provides a different kind of authentication.
+
+Here we configure our scheme with `options` and give our *strategy* (configured scheme) the name 'base'. We could use any name for our strategy, but we will need to use the name we choose to refer to it later.
+
+###### Why distinguish between scheme and strategy?
+
+We might want to use more than one strategy of the same scheme. For example, if we have two different classes of users (ordinary users and administrators) defining two strategies allows to set different permissions on routes more easily. In this case we are creating one strategy called 'base' - we do not need any more. If you want more than one strategy, you will need to make use of the `requestDecoratorName` option of hapi-cookie-auth.
 
 ## Login a user
 
-Logging someone in is called creating a session. We will create a session by creating a cookie. That's why the second argument to `strategy` is `'cookie'`.
+Logging someone in is called creating a session. We will create a session by creating a cookie using the `set` method of the `cookieAuth` object which (by default) the plugin adds to the request object.
 
 ```javascript
 server.route({  
@@ -54,7 +60,7 @@ server.route({
 
 ## Add auth to your routes
 
-We can simply block a route for users without a set cookie:
+Now we can check whether a cookie has been set by ocnfiguring the `auth` object of a route. We can simply block a route for users without a set cookie:
 
 ```javascript
 server.route({  
@@ -121,3 +127,7 @@ Notes:
  - ttl sets when the session will automatically expire in milliseconds after creation.
 
 There are lots more options you can set. Check the docs for the plugin.
+
+## Gotcha!
+
+Unlike the plugins you have used so far, hapi-cookie-auth loads asynchronously. That means anything you do to the server (`server.start`, `server.routes`) must be done in the `register` callback. This should make testing fun.
