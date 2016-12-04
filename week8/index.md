@@ -15,12 +15,11 @@ Continuing some of the topics from last week, this week we will be covering auth
 
 Monday:
 
-* 10:00-10:30 -- Introduction to Auth \(Elias\)
-* 10:30-11:00 -- OAuth whiteboard walkthrough \(Elias & Tasnim\)
-* 11:00-13:00 -- OAuth workshop part 1 \(Elias & Tasnim\)
-* 14:00-15:30 -- OAuth workshop part 2 \(Elias & Tasnim\)
-* 16:00-17:00 -- Q&A and/or recap of previous topics \(Elias & Tasnim\)
-* 17:00-18:00 -- Speaker: Rob from Busuu 
+* 10:00-10:30 -- Introduction to Auth \(Matt\)
+* 10:30-11:00 -- OAuth whiteboard walkthrough \(Matt\)
+* 11:00-13:00 -- OAuth workshop part 1 \(Matt\)
+* 14:00-15:30 -- OAuth workshop part 2 \(Matt\)
+* 16:00-17:00 -- Q&A and/or recap of previous topics \(Matt\)
 
 Tuesday:
 
