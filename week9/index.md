@@ -27,7 +27,7 @@ Thursday
 
 Friday
 * 10.00 - 15.00 -- User testing (4 Groups - 4 test users)
-* 15.00 - 17.30 -- Now make it! two, 8 people projects, based on learned technologies and UX/UI design principles learned.
+* 15.00 - 17.30 -- Now make it! two, 4 people projects, based on learned technologies and UX/UI design principles learned.
 * 17.30 - 18.30 -- Talk with Oliver from ticket master
 
 Monday - Tuesday
