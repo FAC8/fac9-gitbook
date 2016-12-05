@@ -9,29 +9,28 @@ The project this week is a long-ish 'sprint' (Fri till Wed), and it will incorpo
 
 
 ## Schedule
-Monday (12/12): 
+Tuesday (13/12): 
 * 10.00 - 11.00 -- UX/UI Introduction with Harry
 * 11.00 - 13.00 -- Introduction to the project - Meet the clients
 * 14.00 - 15.30 -- User research and User personas workshop
 * 15.30 - 17.00 -- research topics
-* 17.00 - 18.00 -- Ayesha Moarif, lead UX designer from UsTwo - talk 
 
-Tuesday:
+Wednesday:
 * 10.00 - 11.00 -- Presentations of research topics 
 * 11.00 - 12.00 -- "Dont make me think!" walk-through with Noga
 * 12.00 - 13.00 -- 'Ideation' (from Google Venture)
 * 14.00 onwards -- 'Decide' (from Google Venture)
 
-Wednesday
+Thursday
 * 10.00 - 11.00 -- "Designing with performance in mind" walk-through with Sofia
 * 11.00 - onward -- Prototype and prepare for user testing
 
-Thursday (15/12)
+Friday
 * 10.00 - 15.00 -- User testing (4 Groups - 4 test users)
 * 15.00 - 17.30 -- Now make it! two, 8 people projects, based on learned technologies and UX/UI design principles learned.
 * 17.30 - 18.30 -- Talk with Oliver from ticket master
 
-Friday - Tuesday
+Monday - Tuesday
 * Working on project
 
 Wednesday 
