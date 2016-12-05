@@ -13,7 +13,7 @@ Tuesday (13/12):
 * 10.00 - 11.00 -- UX/UI Introduction with Harry
 * 11.00 - 13.00 -- Introduction to the project - Meet the clients
 * 14.00 - 15.30 -- User research and User personas workshop
-* 15.30 - 17.00 -- research topics
+* 15.30 - 18.00 -- research topics
 
 Wednesday:
 * 10.00 - 11.00 -- Presentations of research topics 
