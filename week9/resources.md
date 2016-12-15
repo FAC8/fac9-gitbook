@@ -1,5 +1,3 @@
-
-
 # Resources:
 
 ### User Experience
@@ -18,14 +16,13 @@
 
 [UX Power tools Blog](https://medium.com/ux-power-tools)
 
---------
+---
 
-
-### User Interface _(in the context of UX :trollface:)_
+### User Interface _\(in the context of UX :trollface:\)_
 
 [The 9 States for Interaction Design](https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85?ref=uxhandy#.ig0r6pj70)
 
-[(Awesome) User "Onboarding" Teardowns. A Critical review of Popular apps](https://www.useronboard.com/onboarding-teardowns/)
+[\(Awesome\) User "Onboarding" Teardowns. A Critical review of Popular apps](https://www.useronboard.com/onboarding-teardowns/)
 
 [Design Better Forms Common mistakes designers make and how to fix them](https://uxdesign.cc/design-better-forms-96fadca0f49c?ref=webdesignernews.com#.we7v9udwa)
 
@@ -37,12 +34,37 @@
 
 [Type On Screen - Erik Spiekermann gives a 20 minute introduction](https://vimeo.com/49744848)
 
-
-----------
+---
 
 ### Workshops and Presentations
 
 [Case for UX Design in Freelance software - Harry Fox](https://docs.google.com/presentation/d/1_YayKGDwpc2H-IVqcAjupfD6escUMaqcKUtTlYagu3U/edit?usp=sharing)
+
+
+
+### Designing with performance in mind
+
+---
+
+[https://www.udacity.com/course/website-performance-optimization--ud884](https://www.udacity.com/course/website-performance-optimization--ud884)
+
+[https://developers.google.com/web/fundamentals/design-and-ui/animations/](https://developers.google.com/web/fundamentals/design-and-ui/animations/)
+
+[http://designingforperformance.com/](http://designingforperformance.com/)
+
+[http://jonyablonski.com/2016/designers-guide-to-web-performance-optimization/](http://jonyablonski.com/2016/designers-guide-to-web-performance-optimization/)
+
+http://CSSMinifier.com/
+
+http://JSCompress.com/
+
+[https://developers.google.com/web/fundamentals/performance/rail?hl=en](https://developers.google.com/web/fundamentals/performance/rail?hl=en)
+
+[https://developers.google.com/web/fundamentals/performance/critical-rendering-path/](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
+
+[https://www.webpagetest.org/](https://www.webpagetest.org/)
+
+[https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)
 
 
 
