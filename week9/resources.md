@@ -34,13 +34,21 @@
 
 [Type On Screen - Erik Spiekermann gives a 20 minute introduction](https://vimeo.com/49744848)
 
+UI patterns - [http://ui-patterns.com/](http://ui-patterns.com/ "ui patterns")
+
+another UI pattern resource - [http://zurb.com/patterntap](http://zurb.com/patterntap) 
+
+check out this chrome Muzli extension for daily design inspiration! - https://muz.li/get/
+
+really nice color picker - https://color.hailpixel.com
+
+
+
 ---
 
 ### Workshops and Presentations
 
 [Case for UX Design in Freelance software - Harry Fox](https://docs.google.com/presentation/d/1_YayKGDwpc2H-IVqcAjupfD6escUMaqcKUtTlYagu3U/edit?usp=sharing)
-
-
 
 ### Designing with performance in mind
 
@@ -54,9 +62,9 @@
 
 [http://jonyablonski.com/2016/designers-guide-to-web-performance-optimization/](http://jonyablonski.com/2016/designers-guide-to-web-performance-optimization/)
 
-http://CSSMinifier.com/
+[http://CSSMinifier.com/](http://CSSMinifier.com/)
 
-http://JSCompress.com/
+[http://JSCompress.com/](http://JSCompress.com/)
 
 [https://developers.google.com/web/fundamentals/performance/rail?hl=en](https://developers.google.com/web/fundamentals/performance/rail?hl=en)
 
@@ -65,6 +73,4 @@ http://JSCompress.com/
 [https://www.webpagetest.org/](https://www.webpagetest.org/)
 
 [https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)
-
-
 
