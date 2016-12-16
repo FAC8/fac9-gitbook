@@ -34,9 +34,7 @@
 
 [Type On Screen - Erik Spiekermann gives a 20 minute introduction](https://vimeo.com/49744848)
 
-[http://ui-patterns.com/](http://ui-patterns.com/ "UI patterns")
-
-UI patterns - http://ui-patterns.com/
+UI patterns - [http://ui-patterns.com/](http://ui-patterns.com/)
 
 another UI pattern resource - [http://zurb.com/patterntap](http://zurb.com/patterntap)
 
