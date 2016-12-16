@@ -16,6 +16,8 @@
 
 [UX Power tools Blog](https://medium.com/ux-power-tools)
 
+[Dont make me think - Steve Krug PDF](http://www.avis.it/userfiles/file/Dont_Make_Me_Think_A_Common_Sense_Approach_to_Web_Usability_2nd_Ed_2005.pdf)
+
 ---
 
 ### User Interface _\(in the context of UX :trollface:\)_
