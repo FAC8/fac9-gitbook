@@ -48,7 +48,7 @@
 
 [Case for UX Design in Freelance software - Harry Fox](https://docs.google.com/presentation/d/1_YayKGDwpc2H-IVqcAjupfD6escUMaqcKUtTlYagu3U/edit?usp=sharing)
 
-[D\(h!\)ont make me think + Usability Heuristics - Noga](https://docs.google.com/presentation/d/1FeYTE_fT7htb1rlkNNSGtFOgQPX2u_kH6ATTLaL1-Ds/edit?usp=sharing)
+[Do\(h!\)nt make me think + Usability Heuristics - Noga](https://docs.google.com/presentation/d/1FeYTE_fT7htb1rlkNNSGtFOgQPX2u_kH6ATTLaL1-Ds/edit?usp=sharing)
 
 ### Designing with performance in mind
 
