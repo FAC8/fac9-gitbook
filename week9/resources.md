@@ -18,6 +18,8 @@
 
 [Dont make me think - Steve Krug PDF](http://www.avis.it/userfiles/file/Dont_Make_Me_Think_A_Common_Sense_Approach_to_Web_Usability_2nd_Ed_2005.pdf)
 
+[Yuan Chen - the portfolio of a senior Google designer \(wearabout project for ASOS is a really great example\)](http://www.yuanchen.es/wearabout/)
+
 ---
 
 ### User Interface _\(in the context of UX :trollface:\)_
