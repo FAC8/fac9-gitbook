@@ -22,6 +22,8 @@
 
 ### User Interface _\(in the context of UX :trollface:\)_
 
+[HackingUI is a community for designers, developers and creative entrepreneurs](http://hackingui.com/)
+
 [The 9 States for Interaction Design](https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85?ref=uxhandy#.ig0r6pj70)
 
 [\(Awesome\) User "Onboarding" Teardowns. A Critical review of Popular apps](https://www.useronboard.com/onboarding-teardowns/)
@@ -42,7 +44,7 @@
 
 [check out this chrome Muzli extension for daily design inspiration! ](https://muz.li/get/)
 
-[really nice color picker ](https://color.hailpixel.com)
+[really nice colour picker ](https://color.hailpixel.com)
 
 ---
 
