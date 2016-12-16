@@ -34,15 +34,15 @@
 
 [Type On Screen - Erik Spiekermann gives a 20 minute introduction](https://vimeo.com/49744848)
 
-UI patterns - [http://ui-patterns.com/](http://ui-patterns.com/ "ui patterns")
+[http://ui-patterns.com/](http://ui-patterns.com/ "UI patterns")
 
-another UI pattern resource - [http://zurb.com/patterntap](http://zurb.com/patterntap) 
+UI patterns - http://ui-patterns.com/
 
-check out this chrome Muzli extension for daily design inspiration! - https://muz.li/get/
+another UI pattern resource - [http://zurb.com/patterntap](http://zurb.com/patterntap)
 
-really nice color picker - https://color.hailpixel.com
+check out this chrome Muzli extension for daily design inspiration! - [https://muz.li/get/](https://muz.li/get/)
 
-
+really nice color picker - [https://color.hailpixel.com](https://color.hailpixel.com)
 
 ---
 
